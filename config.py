@@ -1,0 +1,2 @@
+API_TOKEN = "5527070123:AAFgAFQ9GnDo7kBcDtUAAsfRapo7nbxLf-U"  # прод
+# API_TOKEN ='5530121880:AAG6ZwgO5_cPmE4nviXHlyhqROTNUlohdDI' #мой тест

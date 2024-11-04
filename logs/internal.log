@@ -1,0 +1,1102 @@
+2024-10-20 18:42:16.565392
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1XgyUykvVyz1hFOgCqiuRQPdJQzGyNMke
+<Task pending name='Task-6' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:59>>
+<Task pending name='Task-7' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:59>>
+{'successCount': 0, 'errorCount': 2}
+Прошло: 0.200769 секунд
+2024-10-20 18:45:32.382460
+2024-10-20 18:45:32.382460
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1XgyUykvVyz1hFOgCqiuRQPdJQzGyNMke
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1XgyUykvVyz1hFOgCqiuRQPdJQzGyNMke
+<Task pending name='Task-11' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:59>>
+<Task pending name='Task-11' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:59>>
+<Task pending name='Task-12' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:59>>
+<Task pending name='Task-12' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:59>>
+{'successCount': 0, 'errorCount': 2}
+{'successCount': 0, 'errorCount': 2}
+Прошло: 0.320969 секунд
+Прошло: 0.320969 секунд
+2024-10-20 18:45:47.377607
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1XgyUykvVyz1hFOgCqiuRQPdJQzGyNMke
+<Task pending name='Task-6' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:59>>
+{'successCount': 0, 'errorCount': 1}
+Прошло: 0.167652 секунд
+2024-10-22 13:13:01.132050
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1XgyUykvVyz1hFOgCqiuRQPdJQzGyNMke
+<Task pending name='Task-3' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:59>>
+{'successCount': 0, 'errorCount': 1}
+Прошло: 0.154932 секунд
+2024-10-23 10:31:58.329730
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1XgyUykvVyz1hFOgCqiuRQPdJQzGyNMke
+<Task pending name='Task-6' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:59>>
+{'successCount': 0, 'errorCount': 1}
+Прошло: 0.140274 секунд
+2024-10-23 10:33:06.534281
+2024-10-23 10:33:06.534281
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1XgyUykvVyz1hFOgCqiuRQPdJQzGyNMke
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1XgyUykvVyz1hFOgCqiuRQPdJQzGyNMke
+<Task pending name='Task-10' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:59>>
+<Task pending name='Task-10' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:59>>
+{'successCount': 0, 'errorCount': 1}
+{'successCount': 0, 'errorCount': 1}
+Прошло: 0.084581 секунд
+Прошло: 0.084581 секунд
+2024-10-23 11:04:07.781138
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1XgyUykvVyz1hFOgCqiuRQPdJQzGyNMke
+<Task pending name='Task-6' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:59>>
+{'successCount': 0, 'errorCount': 1}
+Прошло: 0.162143 секунд
+2024-10-23 11:04:33.234457
+2024-10-23 11:04:33.234457
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1XgyUykvVyz1hFOgCqiuRQPdJQzGyNMke
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1XgyUykvVyz1hFOgCqiuRQPdJQzGyNMke
+<Task pending name='Task-10' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:59>>
+<Task pending name='Task-10' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:59>>
+{'successCount': 0, 'errorCount': 1}
+{'successCount': 0, 'errorCount': 1}
+Прошло: 0.084736 секунд
+Прошло: 0.084736 секунд
+2024-10-23 11:09:46.234334
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1XgyUykvVyz1hFOgCqiuRQPdJQzGyNMke
+<Task pending name='Task-6' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:59>>
+<Task pending name='Task-7' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:59>>
+{'successCount': 0, 'errorCount': 2}
+Прошло: 0.155194 секунд
+2024-10-23 11:11:19.790765
+2024-10-23 11:11:19.790765
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1XgyUykvVyz1hFOgCqiuRQPdJQzGyNMke
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1XgyUykvVyz1hFOgCqiuRQPdJQzGyNMke
+<Task pending name='Task-11' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:59>>
+<Task pending name='Task-11' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:59>>
+<Task pending name='Task-12' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:59>>
+<Task pending name='Task-12' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:59>>
+{'successCount': 0, 'errorCount': 2}
+{'successCount': 0, 'errorCount': 2}
+Прошло: 0.082997 секунд
+Прошло: 0.082997 секунд
+2024-10-23 11:14:46.377548
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1XgyUykvVyz1hFOgCqiuRQPdJQzGyNMke
+<Task pending name='Task-6' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:61>>
+<Task pending name='Task-7' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:61>>
+{'successCount': 0, 'errorCount': 2}
+Прошло: 0.102088 секунд
+2024-10-23 11:16:16.512119
+2024-10-23 11:16:16.512119
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1XgyUykvVyz1hFOgCqiuRQPdJQzGyNMke
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1XgyUykvVyz1hFOgCqiuRQPdJQzGyNMke
+<Task pending name='Task-11' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:61>>
+<Task pending name='Task-11' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:61>>
+<Task pending name='Task-12' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:61>>
+<Task pending name='Task-12' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:61>>
+{'successCount': 0, 'errorCount': 2}
+{'successCount': 0, 'errorCount': 2}
+Прошло: 0.116547 секунд
+Прошло: 0.116547 секунд
+2024-10-23 11:18:24.671941
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1XgyUykvVyz1hFOgCqiuRQPdJQzGyNMke
+<Task pending name='Task-6' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:61>>
+<Task pending name='Task-7' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:61>>
+{'successCount': 0, 'errorCount': 2}
+Прошло: 0.092024 секунд
+2024-10-23 11:18:58.613867
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1XgyUykvVyz1hFOgCqiuRQPdJQzGyNMke
+<Task pending name='Task-6' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:61>>
+<Task pending name='Task-7' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:61>>
+{'successCount': 0, 'errorCount': 2}
+Прошло: 0.087465 секунд
+2024-10-23 11:40:22.929891
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1XgyUykvVyz1hFOgCqiuRQPdJQzGyNMke
+<Task pending name='Task-6' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:61>>
+<Task pending name='Task-7' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:61>>
+{'successCount': 0, 'errorCount': 2}
+Прошло: 0.142777 секунд
+2024-10-23 11:40:46.054470
+2024-10-23 11:40:46.054470
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1XgyUykvVyz1hFOgCqiuRQPdJQzGyNMke
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1XgyUykvVyz1hFOgCqiuRQPdJQzGyNMke
+<Task pending name='Task-11' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:61>>
+<Task pending name='Task-11' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:61>>
+<Task pending name='Task-12' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:61>>
+<Task pending name='Task-12' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:61>>
+{'successCount': 0, 'errorCount': 2}
+{'successCount': 0, 'errorCount': 2}
+Прошло: 0.08624 секунд
+Прошло: 0.08624 секунд
+2024-10-23 11:48:48.651334
+2024-10-23 11:48:48.651334
+2024-10-23 11:48:48.651334
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1XgyUykvVyz1hFOgCqiuRQPdJQzGyNMke
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1XgyUykvVyz1hFOgCqiuRQPdJQzGyNMke
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1XgyUykvVyz1hFOgCqiuRQPdJQzGyNMke
+<Task pending name='Task-16' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:61>>
+<Task pending name='Task-16' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:61>>
+<Task pending name='Task-16' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:61>>
+<Task pending name='Task-17' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:61>>
+<Task pending name='Task-17' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:61>>
+<Task pending name='Task-17' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:61>>
+{'successCount': 0, 'errorCount': 2}
+{'successCount': 0, 'errorCount': 2}
+{'successCount': 0, 'errorCount': 2}
+Прошло: 0.141973 секунд
+Прошло: 0.141973 секунд
+Прошло: 0.141973 секунд
+2024-10-23 11:50:14.291596
+Success extract_file_id: https://drive.google.com/uc?export=download&id=0
+<Task pending name='Task-6' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:61>>
+<Task pending name='Task-7' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:61>>
+{'successCount': 0, 'errorCount': 2}
+Прошло: 0.146549 секунд
+2024-10-23 12:33:31.184139
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+<Task pending name='Task-6' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:61>>
+<Task pending name='Task-7' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:61>>
+{'successCount': 0, 'errorCount': 2}
+Прошло: 0.580389 секунд
+2024-10-23 12:34:22.472848
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+<Task pending name='Task-6' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:61>>
+<Task pending name='Task-7' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:61>>
+{'successCount': 0, 'errorCount': 2}
+Прошло: 0.105167 секунд
+2024-10-23 12:42:26.521415
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+<Task pending name='Task-6' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:63>>
+<Task pending name='Task-7' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:63>>
+{'successCount': 0, 'errorCount': 2}
+Прошло: 0.151921 секунд
+2024-10-23 12:42:51.137710
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+<Task pending name='Task-6' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:64>>
+<Task pending name='Task-7' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:64>>
+{'successCount': 0, 'errorCount': 2}
+Прошло: 0.099695 секунд
+2024-10-23 12:43:40.206098
+2024-10-23 12:43:40.206098
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+<Task pending name='Task-11' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:64>>
+<Task pending name='Task-11' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:64>>
+<Task pending name='Task-12' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:64>>
+<Task pending name='Task-12' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:64>>
+{'successCount': 0, 'errorCount': 2}
+{'successCount': 0, 'errorCount': 2}
+Прошло: 0.092027 секунд
+Прошло: 0.092027 секунд
+2024-10-23 12:44:09.241898
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+<Task pending name='Task-6' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:65>>
+<Task pending name='Task-7' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:65>>
+{'successCount': 0, 'errorCount': 2}
+Прошло: 0.092473 секунд
+2024-10-23 12:45:59.619333
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+<Task pending name='Task-6' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:65>>
+<Task pending name='Task-7' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:65>>
+{'successCount': 0, 'errorCount': 2}
+Прошло: 0.087809 секунд
+2024-10-23 13:18:51.933281
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+<Task pending name='Task-9' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:64>>
+<Task pending name='Task-10' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:64>>
+337363979: Success
+7262079900: Success
+{'successCount': 2, 'errorCount': 0}
+Прошло: 3.989748 секунд
+2024-10-23 13:51:42.068969
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+<Task pending name='Task-9' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:64>>
+<Task pending name='Task-10' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:64>>
+7262079900: Success
+337363979: Success
+{'successCount': 2, 'errorCount': 0}
+Прошло: 4.152004 секунд
+2024-10-23 14:11:19.582760
+2024-10-23 14:11:19.582760
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+<Task pending name='Task-21' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:64>>
+<Task pending name='Task-21' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:64>>
+<Task pending name='Task-22' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:64>>
+<Task pending name='Task-22' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:64>>
+7262079900: Success
+7262079900: Success
+337363979: Success
+337363979: Success
+{'successCount': 2, 'errorCount': 0}
+{'successCount': 2, 'errorCount': 0}
+Прошло: 4.063144 секунд
+Прошло: 4.063144 секунд
+2024-10-23 20:30:30.999900
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+<Task pending name='Task-9' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:64>>
+<Task pending name='Task-10' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:64>>
+{'successCount': 2, 'errorCount': 0}
+Прошло: 3.138216 секунд
+2024-10-23 20:41:10.532634
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+<Task pending name='Task-9' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:64>>
+<Task pending name='Task-10' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:64>>
+{'successCount': 0, 'errorCount': 2}
+Прошло: 3.145239 секунд
+2024-10-23 20:43:01.067738
+2024-10-23 20:43:01.067738
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+<Task pending name='Task-17' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:64>>
+<Task pending name='Task-17' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:64>>
+<Task pending name='Task-18' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:64>>
+<Task pending name='Task-18' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:64>>
+{'successCount': 0, 'errorCount': 2}
+{'successCount': 0, 'errorCount': 2}
+Прошло: 2.871845 секунд
+Прошло: 2.871845 секунд
+2024-10-23 20:43:16.736945
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+<Task pending name='Task-9' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:64>>
+<Task pending name='Task-10' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:64>>
+{'successCount': 0, 'errorCount': 2}
+Прошло: 2.768805 секунд
+2024-10-23 20:44:00.757735
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+<Task pending name='Task-9' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:64>>
+<Task pending name='Task-10' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:64>>
+{'successCount': 0, 'errorCount': 2}
+Прошло: 3.293783 секунд
+2024-10-23 20:46:58.792756
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+<Task pending name='Task-9' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:64>>
+<Task pending name='Task-10' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:64>>
+{'successCount': 0, 'errorCount': 2}
+Прошло: 4.550561 секунд
+2024-10-23 20:47:26.850695
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+<Task pending name='Task-9' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:64>>
+<Task pending name='Task-10' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:64>>
+7262079900: Success
+337363979: Success
+{'successCount': 2, 'errorCount': 0}
+Прошло: 5.019642 секунд
+2024-10-23 20:50:42.079721
+2024-10-23 20:50:42.079721
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+<Task pending name='Task-21' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:64>>
+<Task pending name='Task-21' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:64>>
+<Task pending name='Task-22' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:64>>
+<Task pending name='Task-22' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:64>>
+7262079900: Success
+7262079900: Success
+337363979: Success
+337363979: Success
+{'successCount': 2, 'errorCount': 0}
+{'successCount': 2, 'errorCount': 0}
+Прошло: 4.400757 секунд
+Прошло: 4.400757 секунд
+2024-10-23 20:51:16.623712
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+<Task pending name='Task-9' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:64>>
+<Task pending name='Task-10' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:64>>
+337363979: Success
+7262079900: Success
+{'successCount': 2, 'errorCount': 0}
+Прошло: 4.267336 секунд
+2024-10-23 20:51:40.804859
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+<Task pending name='Task-9' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:64>>
+<Task pending name='Task-10' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:64>>
+7262079900: Success
+337363979: Success
+{'successCount': 2, 'errorCount': 0}
+Прошло: 4.722343 секунд
+2024-10-23 20:52:04.333144
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+<Task pending name='Task-9' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:64>>
+<Task pending name='Task-10' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:64>>
+7262079900: Success
+337363979: Success
+{'successCount': 2, 'errorCount': 0}
+Прошло: 4.895918 секунд
+2024-10-25 14:37:43.230937
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+<Task pending name='Task-9' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:64>>
+<Task pending name='Task-10' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:64>>
+337363979: Success
+7262079900: Success
+{'successCount': 2, 'errorCount': 0}
+Прошло: 4.462177 секунд
+2024-10-25 14:54:45.427147
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+<Task pending name='Task-9' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+<Task pending name='Task-10' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+7262079900: Success
+337363979: Success
+{'successCount': 2, 'errorCount': 0}
+Прошло: 4.392928 секунд
+2024-10-25 15:13:45.763340
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+<Task pending name='Task-11' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+<Task pending name='Task-12' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+7262079900: Success
+337363979: Success
+{'successCount': 2, 'errorCount': 0}
+Прошло: 4.200684 секунд
+2024-10-25 15:14:18.700272
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+<Task pending name='Task-9' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+<Task pending name='Task-10' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+7262079900: Success
+337363979: Success
+{'successCount': 2, 'errorCount': 0}
+Прошло: 4.029778 секунд
+2024-10-25 15:25:51.359981
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+<Task pending name='Task-9' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+<Task pending name='Task-10' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+{'successCount': 0, 'errorCount': 2}
+Прошло: 2.994908 секунд
+2024-10-25 15:27:29.484235
+2024-10-25 15:27:29.484235
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+<Task pending name='Task-17' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+<Task pending name='Task-17' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+<Task pending name='Task-18' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+<Task pending name='Task-18' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+{'successCount': 0, 'errorCount': 2}
+{'successCount': 0, 'errorCount': 2}
+Прошло: 3.314095 секунд
+Прошло: 3.314095 секунд
+2024-10-25 15:28:11.598136
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+<Task pending name='Task-9' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+<Task pending name='Task-10' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+{'successCount': 0, 'errorCount': 2}
+Прошло: 3.157379 секунд
+2024-10-25 15:36:58.179685
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+<Task pending name='Task-9' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+<Task pending name='Task-10' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+{'successCount': 0, 'errorCount': 2}
+Прошло: 2.895347 секунд
+2024-10-25 15:42:51.744556
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+<Task pending name='Task-9' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+<Task pending name='Task-10' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+337363979: Success
+7262079900: Success
+{'successCount': 2, 'errorCount': 0}
+Прошло: 4.158305 секунд
+2024-10-25 15:45:57.487609
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+<Task pending name='Task-9' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+<Task pending name='Task-10' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+{'successCount': 0, 'errorCount': 2}
+Прошло: 2.979527 секунд
+2024-10-25 15:46:12.328723
+2024-10-25 15:46:12.328723
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+<Task pending name='Task-21' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+<Task pending name='Task-21' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+<Task pending name='Task-22' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+<Task pending name='Task-22' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+{'successCount': 0, 'errorCount': 2}
+{'successCount': 0, 'errorCount': 2}
+Прошло: 2.934501 секунд
+Прошло: 2.934501 секунд
+2024-10-25 15:50:00.374027
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+<Task pending name='Task-9' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+<Task pending name='Task-10' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+337363979: Success
+7262079900: Success
+{'successCount': 2, 'errorCount': 0}
+Прошло: 4.150603 секунд
+2024-10-25 15:50:20.770812
+2024-10-25 15:50:20.770812
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+<Task pending name='Task-21' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+<Task pending name='Task-21' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+<Task pending name='Task-22' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+<Task pending name='Task-22' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+7262079900: Success
+7262079900: Success
+337363979: Success
+337363979: Success
+{'successCount': 2, 'errorCount': 0}
+{'successCount': 2, 'errorCount': 0}
+Прошло: 3.96101 секунд
+Прошло: 3.96101 секунд
+2024-10-25 15:50:36.095078
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+<Task pending name='Task-9' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+<Task pending name='Task-10' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+337363979: Success
+7262079900: Success
+{'successCount': 2, 'errorCount': 0}
+Прошло: 3.880893 секунд
+2024-10-25 16:43:48.003928
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+<Task pending name='Task-13' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+<Task pending name='Task-14' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+337363979: Success
+7262079900: Success
+{'successCount': 2, 'errorCount': 0}
+Прошло: 4.415766 секунд
+2024-10-25 16:57:02.878646
+2024-10-25 16:57:02.878646
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+<Task pending name='Task-25' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+<Task pending name='Task-25' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+<Task pending name='Task-26' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+<Task pending name='Task-26' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+337363979: Success
+337363979: Success
+7262079900: Success
+7262079900: Success
+{'successCount': 2, 'errorCount': 0}
+{'successCount': 2, 'errorCount': 0}
+Прошло: 4.729405 секунд
+Прошло: 4.729405 секунд
+2024-10-25 16:59:32.257461
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+<Task pending name='Task-9' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+<Task pending name='Task-10' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+7262079900: Success
+337363979: Success
+{'successCount': 2, 'errorCount': 0}
+Прошло: 4.333725 секунд
+2024-10-25 17:09:40.271263
+2024-10-25 17:09:40.271263
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+<Task pending name='Task-21' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+<Task pending name='Task-21' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+<Task pending name='Task-22' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+<Task pending name='Task-22' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+7262079900: Success
+7262079900: Success
+337363979: Success
+337363979: Success
+{'successCount': 2, 'errorCount': 0}
+{'successCount': 2, 'errorCount': 0}
+Прошло: 4.72584 секунд
+Прошло: 4.72584 секунд
+2024-10-25 17:10:27.768339
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+<Task pending name='Task-9' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+<Task pending name='Task-10' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+337363979: Success
+7262079900: Success
+{'successCount': 2, 'errorCount': 0}
+Прошло: 4.410134 секунд
+2024-10-25 17:12:56.822151
+2024-10-25 17:12:56.822151
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+<Task pending name='Task-21' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+<Task pending name='Task-21' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+<Task pending name='Task-22' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+<Task pending name='Task-22' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+7262079900: Success
+7262079900: Success
+337363979: Success
+337363979: Success
+{'successCount': 2, 'errorCount': 0}
+{'successCount': 2, 'errorCount': 0}
+Прошло: 4.5897 секунд
+Прошло: 4.5897 секунд
+2024-10-25 17:14:19.507352
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+<Task pending name='Task-9' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+<Task pending name='Task-10' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+7262079900: Success
+337363979: Success
+{'successCount': 2, 'errorCount': 0}
+Прошло: 4.251431 секунд
+2024-10-25 17:19:03.930340
+2024-10-25 17:19:03.930340
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+<Task pending name='Task-25' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+<Task pending name='Task-25' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+<Task pending name='Task-26' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+<Task pending name='Task-26' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+337363979: Success
+337363979: Success
+7262079900: Success
+7262079900: Success
+{'successCount': 2, 'errorCount': 0}
+{'successCount': 2, 'errorCount': 0}
+Прошло: 4.0606 секунд
+Прошло: 4.0606 секунд
+2024-10-25 17:19:17.180719
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+<Task pending name='Task-9' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+<Task pending name='Task-10' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+7262079900: Success
+337363979: Success
+{'successCount': 2, 'errorCount': 0}
+Прошло: 4.07661 секунд
+2024-10-25 17:19:42.449479
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+<Task pending name='Task-9' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+<Task pending name='Task-10' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+7262079900: Success
+337363979: Success
+{'successCount': 2, 'errorCount': 0}
+Прошло: 4.306461 секунд
+2024-10-25 17:29:59.093091
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+<Task pending name='Task-9' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+<Task pending name='Task-10' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+7262079900: Success
+337363979: Success
+{'successCount': 2, 'errorCount': 0}
+Прошло: 4.130399 секунд
+2024-10-25 17:31:31.672461
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+<Task pending name='Task-9' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+<Task pending name='Task-10' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+7262079900: Success
+337363979: Success
+{'successCount': 2, 'errorCount': 0}
+Прошло: 4.233471 секунд
+2024-10-25 17:33:02.244634
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+<Task pending name='Task-9' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+<Task pending name='Task-10' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+7262079900: Success
+337363979: Success
+{'successCount': 2, 'errorCount': 0}
+Прошло: 4.975643 секунд
+2024-10-25 17:44:01.295740
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+<Task pending name='Task-9' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+<Task pending name='Task-10' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+7262079900: Success
+337363979: Success
+{'successCount': 2, 'errorCount': 0}
+Прошло: 4.563639 секунд
+2024-10-25 17:44:52.527526
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+<Task pending name='Task-9' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+<Task pending name='Task-10' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+337363979: Success
+7262079900: Success
+{'successCount': 2, 'errorCount': 0}
+Прошло: 4.446597 секунд
+2024-10-25 17:46:18.900317
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+<Task pending name='Task-9' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+<Task pending name='Task-10' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+337363979: Success
+7262079900: Success
+{'successCount': 2, 'errorCount': 0}
+Прошло: 11.899528 секунд
+2024-10-29 12:54:23.558097
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+<Task pending name='Task-9' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+<Task pending name='Task-10' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+337363979: Success
+7262079900: Success
+{'successCount': 2, 'errorCount': 0}
+Прошло: 4.028707 секунд
+2024-10-29 14:57:06.952169
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+<Task pending name='Task-9' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+<Task pending name='Task-10' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+7262079900: Success
+337363979: Success
+{'successCount': 2, 'errorCount': 0}
+Прошло: 4.191785 секунд
+2024-10-29 15:19:45.123413
+Success extract_file_id: https://drive.google.com/uc?export=download&id=1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py
+<Task pending name='Task-9' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+<Task pending name='Task-10' coro=<send_photo_to_chat() running at /Users/sergejmarcenko/PycharmProjects/SynergyApi/functions.py:60>>
+337363979: Success
+7262079900: Success
+{'successCount': 2, 'errorCount': 0}
+Прошло: 4.43905 секунд
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='sending message hello! test' linkImage='https://drive.google.com/file/d/1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 17, 21)
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='sending message hello! test' linkImage='https://drive.google.com/file/d/1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 17, 21)
+Загруженные задачи: [({'restId': 371, 'numberOfVisitsFrom': 3, 'numberOfVisitsTo': 7, 'dateVisitFrom': datetime.date(2024, 9, 20), 'dateVisitTo': datetime.date(2024, 10, 20), 'textMessage': 'sending message hello! test', 'linkImage': 'https://drive.google.com/file/d/1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py/view?usp=sharing', 'reply_markup': {'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]}, 'timeToStartSending': datetime.datetime(2024, 10, 29, 17, 30)}, '2024-10-29T17:30:00')]
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='sending message hello! test' linkImage='https://drive.google.com/file/d/1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 17, 30)
+Задача запланирована на 2024-10-29 17:36:00
+Задача запланирована на 2024-10-29 17:36:00
+Запланирована задача на: 2024-10-29 17:41:00
+Запланирована задача на: 2024-10-29 17:41:00
+Планирование задачи на sending message hello! test с задержкой 55.505495 секунд.
+Планирование задачи на sending message hello! test с задержкой 55.505495 секунд.
+Задача 'sending message hello! test' запланирована на 2024-10-29 17:41:00.
+Задача 'sending message hello! test' запланирована на 2024-10-29 17:41:00.
+Запланирована задача на: 2024-10-29 17:43:00
+Запланирована задача на: 2024-10-29 17:43:00
+Планирование задачи на sending message hello! test с задержкой 82.122538 секунд.
+Планирование задачи на sending message hello! test с задержкой 82.122538 секунд.
+Задача 'sending message hello! test' запланирована на 2024-10-29 17:43:00.
+Задача 'sending message hello! test' запланирована на 2024-10-29 17:43:00.
+Начало задачи: 2024-10-29 17:43:00.003628
+Начало задачи: 2024-10-29 17:43:00.003628
+Файл загружен: uploads/photo.jpg
+Файл загружен: uploads/photo.jpg
+Прошло: 4.008425 секунд
+Прошло: 4.008425 секунд
+Задача 'sending message hello! test' выполнена успешно.
+Задача 'sending message hello! test' выполнена успешно.
+Запланирована задача на: 2024-10-29 17:53:00
+Запланирована задача на: 2024-10-29 17:53:00
+Планирование задачи на sending message hello! test с задержкой 204.299974 секунд.
+Планирование задачи на sending message hello! test с задержкой 204.299974 секунд.
+Задача 'sending message hello! test' запланирована на 2024-10-29 17:53:00.
+Задача 'sending message hello! test' запланирована на 2024-10-29 17:53:00.
+Запланирована задача на: 2024-10-29 17:53:00
+Запланирована задача на: 2024-10-29 17:53:00
+Планирование задачи на sending message hello! test с задержкой 196.53392 секунд.
+Планирование задачи на sending message hello! test с задержкой 196.53392 секунд.
+Задача 'sending message hello! test' запланирована на 2024-10-29 17:53:00.
+Задача 'sending message hello! test' запланирована на 2024-10-29 17:53:00.
+Планирование задачи на sending message hello! test с задержкой -1468.360155 секунд.
+Планирование задачи на sending message hello! test с задержкой -1468.360155 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='sending message hello! test' linkImage='https://drive.google.com/file/d/1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 17, 30)
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='sending message hello! test' linkImage='https://drive.google.com/file/d/1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 17, 30)
+Планирование задачи на sending message hello! test с задержкой -1108.360448 секунд.
+Планирование задачи на sending message hello! test с задержкой -1108.360448 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='sending message hello! test' linkImage='https://drive.google.com/file/d/1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 17, 36)
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='sending message hello! test' linkImage='https://drive.google.com/file/d/1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 17, 36)
+Планирование задачи на sending message hello! test с задержкой -1532.802654 секунд.
+Планирование задачи на sending message hello! test с задержкой -1532.802654 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='sending message hello! test' linkImage='https://drive.google.com/file/d/1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 17, 30)
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='sending message hello! test' linkImage='https://drive.google.com/file/d/1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 17, 30)
+Планирование задачи на sending message hello! test с задержкой -1172.802937 секунд.
+Планирование задачи на sending message hello! test с задержкой -1172.802937 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='sending message hello! test' linkImage='https://drive.google.com/file/d/1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 17, 36)
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='sending message hello! test' linkImage='https://drive.google.com/file/d/1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 17, 36)
+Запланирована задача на: 2024-10-29 17:57:00
+Запланирована задача на: 2024-10-29 17:57:00
+Планирование задачи на sending message hello! test с задержкой 34.311725 секунд.
+Планирование задачи на sending message hello! test с задержкой 34.311725 секунд.
+Задача 'sending message hello! test' запланирована на 2024-10-29 17:57:00.
+Задача 'sending message hello! test' запланирована на 2024-10-29 17:57:00.
+Начало задачи: 2024-10-29 17:57:00.003661
+Начало задачи: 2024-10-29 17:57:00.003661
+Файл загружен: uploads/photo.jpg
+Файл загружен: uploads/photo.jpg
+Прошло: 4.097255 секунд
+Прошло: 4.097255 секунд
+Задача 'sending message hello! test' выполнена успешно.
+Задача 'sending message hello! test' выполнена успешно.
+Планирование задачи на sending message hello! test с задержкой -27.649402 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='sending message hello! test' linkImage='https://drive.google.com/file/d/1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 17, 57)
+Запланирована задача на: 2024-10-29 17:58:00
+Запланирована задача на: 2024-10-29 17:58:00
+Планирование задачи на sending message hello! test с задержкой 25.601359 секунд.
+Планирование задачи на sending message hello! test с задержкой 25.601359 секунд.
+Задача 'sending message hello! test' запланирована на 2024-10-29 17:58:00.
+Задача 'sending message hello! test' запланирована на 2024-10-29 17:58:00.
+Планирование задачи на sending message hello! test с задержкой -48.830869 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='sending message hello! test' linkImage='https://drive.google.com/file/d/1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 17, 57)
+Планирование задачи на sending message hello! test с задержкой 11.169013 секунд.
+Задача 'sending message hello! test' запланирована на 2024-10-29 17:58:00.
+Начало задачи: 2024-10-29 17:58:00.004632
+Файл загружен: uploads/photo.jpg
+Прошло: 3.430323 секунд
+Задача 'sending message hello! test' выполнена успешно.
+Начало задачи: 2024-10-29 18:07:16.710755
+Начало задачи: 2024-10-29 18:07:16.710755
+Файл загружен: uploads/photo.jpg
+Файл загружен: uploads/photo.jpg
+Прошло: 3.893509 секунд
+Прошло: 3.893509 секунд
+Задача 'sending message hello! test' выполнена успешно.
+Задача 'sending message hello! test' выполнена успешно.
+Запланирована задача на: 2024-10-29 18:25:00
+Запланирована задача на: 2024-10-29 18:25:00
+Планирование задачи на собщение тест 1  с задержкой 89.082575 секунд.
+Планирование задачи на собщение тест 1  с задержкой 89.082575 секунд.
+Задача 'собщение тест 1 ' запланирована на 2024-10-29 18:25:00.
+Задача 'собщение тест 1 ' запланирована на 2024-10-29 18:25:00.
+Запланирована задача на: 2024-10-29 18:26:00
+Запланирована задача на: 2024-10-29 18:26:00
+Планирование задачи на собщение тест 2  с задержкой 133.991274 секунд.
+Планирование задачи на собщение тест 2  с задержкой 133.991274 секунд.
+Задача 'собщение тест 2 ' запланирована на 2024-10-29 18:26:00.
+Задача 'собщение тест 2 ' запланирована на 2024-10-29 18:26:00.
+Планирование задачи на sending message hello! test с задержкой -1626.6137 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='sending message hello! test' linkImage='https://drive.google.com/file/d/1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 17, 57)
+Планирование задачи на sending message hello! test с задержкой -1566.613828 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='sending message hello! test' linkImage='https://drive.google.com/file/d/1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 17, 58)
+Планирование задачи на собщение тест 1  с задержкой 53.386126 секунд.
+Задача 'собщение тест 1 ' запланирована на 2024-10-29 18:25:00.
+Планирование задачи на собщение тест 2  с задержкой 113.386006 секунд.
+Задача 'собщение тест 2 ' запланирована на 2024-10-29 18:26:00.
+Начало задачи: 2024-10-29 18:25:00.003880
+Файл загружен: uploads/photo.jpg
+Прошло: 3.927128 секунд
+Задача 'собщение тест 1 ' выполнена успешно.
+Начало задачи: 2024-10-29 18:25:59.998949
+Файл загружен: uploads/photo.jpg
+Прошло: 1.642848 секунд
+Задача 'собщение тест 2 ' выполнена успешно.
+Запланирована задача на: 2024-10-29 18:28:00
+Запланирована задача на: 2024-10-29 18:28:00
+Планирование задачи на собщение тест 2  с задержкой 37.127857 секунд.
+Планирование задачи на собщение тест 2  с задержкой 37.127857 секунд.
+Задача 'собщение тест 2 ' запланирована на 2024-10-29 18:28:00.
+Задача 'собщение тест 2 ' запланирована на 2024-10-29 18:28:00.
+Начало задачи: 2024-10-29 18:28:00.002938
+Начало задачи: 2024-10-29 18:28:00.002938
+Файл загружен: uploads/photo.jpg
+Файл загружен: uploads/photo.jpg
+Прошло: 4.878726 секунд
+Прошло: 4.878726 секунд
+Задача 'собщение тест 2 ' выполнена успешно.
+Задача 'собщение тест 2 ' выполнена успешно.
+Планирование задачи на sending message hello! test с задержкой -2578.973718 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='sending message hello! test' linkImage='https://drive.google.com/file/d/1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 17, 57)
+Планирование задачи на sending message hello! test с задержкой -2518.97385 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='sending message hello! test' linkImage='https://drive.google.com/file/d/1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 17, 58)
+Планирование задачи на собщение тест 1  с задержкой -898.973894 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='собщение тест 1 ' linkImage='https://drive.google.com/file/d/1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 18, 25)
+Планирование задачи на собщение тест 2  с задержкой -838.973932 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='собщение тест 2 ' linkImage='https://drive.google.com/file/d/1ucgWm3X7IdDg3sHaCl2Hue6wiBKx47Iy/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 18, 26)
+Планирование задачи на собщение тест 2  с задержкой -718.973966 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='собщение тест 2 ' linkImage='https://drive.google.com/file/d/1ucgWm3X7IdDg3sHaCl2Hue6wiBKx47Iy/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 18, 28)
+Запланирована задача на: 2024-10-29 18:43:00
+Запланирована задача на: 2024-10-29 18:43:00
+Планирование задачи на собщение тест 2  с задержкой 64.83944 секунд.
+Планирование задачи на собщение тест 2  с задержкой 64.83944 секунд.
+Задача 'собщение тест 2 ' запланирована на 2024-10-29 18:43:00.
+Задача 'собщение тест 2 ' запланирована на 2024-10-29 18:43:00.
+Начало задачи: 2024-10-29 18:43:00.005077
+Начало задачи: 2024-10-29 18:43:00.005077
+Файл загружен: uploads/photo.jpg
+Файл загружен: uploads/photo.jpg
+Прошло: 4.469292 секунд
+Прошло: 4.469292 секунд
+Задача 'собщение тест 2 ' выполнена успешно.
+Задача 'собщение тест 2 ' выполнена успешно.
+Планирование задачи на собщение тест 2  с задержкой 9.347244 секунд.
+Планирование задачи на собщение тест 2  с задержкой 9.347244 секунд.
+Задача 'собщение тест 2 ' запланирована на 2024-10-29 18:45:00.
+Задача 'собщение тест 2 ' запланирована на 2024-10-29 18:45:00.
+Начало задачи: 2024-10-29 18:45:00.004533
+Начало задачи: 2024-10-29 18:45:00.004533
+Файл загружен: uploads/photo.jpg
+Файл загружен: uploads/photo.jpg
+Прошло: 5.466394 секунд
+Прошло: 5.466394 секунд
+Задача 'собщение тест 2 ' выполнена успешно.
+Задача 'собщение тест 2 ' выполнена успешно.
+Планирование задачи на sending message hello! test с задержкой -2900.462544 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='sending message hello! test' linkImage='https://drive.google.com/file/d/1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 17, 57)
+Планирование задачи на sending message hello! test с задержкой -2840.462662 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='sending message hello! test' linkImage='https://drive.google.com/file/d/1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 17, 58)
+Планирование задачи на собщение тест 1  с задержкой -1220.462709 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='собщение тест 1 ' linkImage='https://drive.google.com/file/d/1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 18, 25)
+Планирование задачи на собщение тест 2  с задержкой -1160.462752 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='собщение тест 2 ' linkImage='https://drive.google.com/file/d/1ucgWm3X7IdDg3sHaCl2Hue6wiBKx47Iy/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 18, 26)
+Планирование задачи на собщение тест 2  с задержкой -1040.462787 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='собщение тест 2 ' linkImage='https://drive.google.com/file/d/1ucgWm3X7IdDg3sHaCl2Hue6wiBKx47Iy/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 18, 28)
+Планирование задачи на собщение тест 2  с задержкой -140.462836 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='собщение тест 2 ' linkImage='https://drive.google.com/file/d/1ucgWm3X7IdDg3sHaCl2Hue6wiBKx47Iy/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 18, 43)
+Планирование задачи на собщение тест 2  с задержкой -20.462868 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='собщение тест 2 ' linkImage='https://drive.google.com/file/d/1ucgWm3X7IdDg3sHaCl2Hue6wiBKx47Iy/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 18, 45)
+Планирование задачи на собщение тест 2  с задержкой 96.241383 секунд.
+Планирование задачи на собщение тест 2  с задержкой 96.241383 секунд.
+Задача 'собщение тест 2 ' запланирована на 2024-10-29 18:47:00.
+Задача 'собщение тест 2 ' запланирована на 2024-10-29 18:47:00.
+Начало задачи: 2024-10-29 18:47:00.013631
+Начало задачи: 2024-10-29 18:47:00.013631
+Файл загружен: uploads/photo.jpg
+Файл загружен: uploads/photo.jpg
+Прошло: 4.476782 секунд
+Прошло: 4.476782 секунд
+Задача 'собщение тест 2 ' выполнена успешно.
+Задача 'собщение тест 2 ' выполнена успешно.
+Планирование задачи на sending message hello! test с задержкой -3229.547856 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='sending message hello! test' linkImage='https://drive.google.com/file/d/1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 17, 57)
+Планирование задачи на sending message hello! test с задержкой -3169.547978 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='sending message hello! test' linkImage='https://drive.google.com/file/d/1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 17, 58)
+Планирование задачи на собщение тест 1  с задержкой -1549.548024 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='собщение тест 1 ' linkImage='https://drive.google.com/file/d/1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 18, 25)
+Планирование задачи на собщение тест 2  с задержкой -1489.548064 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='собщение тест 2 ' linkImage='https://drive.google.com/file/d/1ucgWm3X7IdDg3sHaCl2Hue6wiBKx47Iy/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 18, 26)
+Планирование задачи на собщение тест 2  с задержкой -1369.548099 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='собщение тест 2 ' linkImage='https://drive.google.com/file/d/1ucgWm3X7IdDg3sHaCl2Hue6wiBKx47Iy/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 18, 28)
+Планирование задачи на собщение тест 2  с задержкой -469.548133 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='собщение тест 2 ' linkImage='https://drive.google.com/file/d/1ucgWm3X7IdDg3sHaCl2Hue6wiBKx47Iy/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 18, 43)
+Планирование задачи на собщение тест 2  с задержкой -349.54817 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='собщение тест 2 ' linkImage='https://drive.google.com/file/d/1ucgWm3X7IdDg3sHaCl2Hue6wiBKx47Iy/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 18, 45)
+Планирование задачи на собщение тест 2  с задержкой -229.548204 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='собщение тест 2 ' linkImage='https://drive.google.com/file/d/1ucgWm3X7IdDg3sHaCl2Hue6wiBKx47Iy/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 18, 47)
+Планирование задачи на собщение тест 2  с задержкой 0.311417 секунд.
+Планирование задачи на собщение тест 2  с задержкой 0.311417 секунд.
+Задача 'собщение тест 2 ' запланирована на 2024-10-29 18:51:00.
+Задача 'собщение тест 2 ' запланирована на 2024-10-29 18:51:00.
+Начало задачи: 2024-10-29 18:51:00.006354
+Начало задачи: 2024-10-29 18:51:00.006354
+Файл загружен: uploads/photo.jpg
+Файл загружен: uploads/photo.jpg
+Прошло: 2.761686 секунд
+Прошло: 2.761686 секунд
+Задача 'собщение тест 2 ' выполнена успешно.
+Задача 'собщение тест 2 ' выполнена успешно.
+Планирование задачи на sending message hello! test с задержкой -3299.776338 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='sending message hello! test' linkImage='https://drive.google.com/file/d/1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 17, 57)
+Планирование задачи на sending message hello! test с задержкой -3239.776461 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='sending message hello! test' linkImage='https://drive.google.com/file/d/1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 17, 58)
+Планирование задачи на собщение тест 1  с задержкой -1619.776509 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='собщение тест 1 ' linkImage='https://drive.google.com/file/d/1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 18, 25)
+Планирование задачи на собщение тест 2  с задержкой -1559.776547 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='собщение тест 2 ' linkImage='https://drive.google.com/file/d/1ucgWm3X7IdDg3sHaCl2Hue6wiBKx47Iy/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 18, 26)
+Планирование задачи на собщение тест 2  с задержкой -1439.776581 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='собщение тест 2 ' linkImage='https://drive.google.com/file/d/1ucgWm3X7IdDg3sHaCl2Hue6wiBKx47Iy/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 18, 28)
+Планирование задачи на собщение тест 2  с задержкой -539.776614 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='собщение тест 2 ' linkImage='https://drive.google.com/file/d/1ucgWm3X7IdDg3sHaCl2Hue6wiBKx47Iy/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 18, 43)
+Планирование задачи на собщение тест 2  с задержкой -419.776653 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='собщение тест 2 ' linkImage='https://drive.google.com/file/d/1ucgWm3X7IdDg3sHaCl2Hue6wiBKx47Iy/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 18, 45)
+Планирование задачи на собщение тест 2  с задержкой -299.776685 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='собщение тест 2 ' linkImage='https://drive.google.com/file/d/1ucgWm3X7IdDg3sHaCl2Hue6wiBKx47Iy/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 18, 47)
+Планирование задачи на собщение тест 2  с задержкой -59.776717 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='собщение тест 2 ' linkImage='https://drive.google.com/file/d/1ucgWm3X7IdDg3sHaCl2Hue6wiBKx47Iy/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 18, 51)
+Планирование задачи на собщение тест 2  с задержкой 52.520942 секунд.
+Планирование задачи на собщение тест 2  с задержкой 52.520942 секунд.
+Задача 'собщение тест 2 ' запланирована на 2024-10-29 18:53:00.
+Задача 'собщение тест 2 ' запланирована на 2024-10-29 18:53:00.
+Начало задачи: 2024-10-29 18:53:00.005781
+Начало задачи: 2024-10-29 18:53:00.005781
+Файл загружен: uploads/photo.jpg
+Файл загружен: uploads/photo.jpg
+Прошло: 4.518204 секунд
+Прошло: 4.518204 секунд
+Задача 'собщение тест 2 ' выполнена успешно.
+Задача 'собщение тест 2 ' выполнена успешно.
+Планирование задачи на sending message hello! test с задержкой -3447.346424 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='sending message hello! test' linkImage='https://drive.google.com/file/d/1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 17, 57)
+Планирование задачи на sending message hello! test с задержкой -3387.346552 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='sending message hello! test' linkImage='https://drive.google.com/file/d/1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 17, 58)
+Планирование задачи на собщение тест 1  с задержкой -1767.346597 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='собщение тест 1 ' linkImage='https://drive.google.com/file/d/1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 18, 25)
+Планирование задачи на собщение тест 2  с задержкой -1707.346635 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='собщение тест 2 ' linkImage='https://drive.google.com/file/d/1ucgWm3X7IdDg3sHaCl2Hue6wiBKx47Iy/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 18, 26)
+Планирование задачи на собщение тест 2  с задержкой -1587.34667 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='собщение тест 2 ' linkImage='https://drive.google.com/file/d/1ucgWm3X7IdDg3sHaCl2Hue6wiBKx47Iy/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 18, 28)
+Планирование задачи на собщение тест 2  с задержкой -687.346704 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='собщение тест 2 ' linkImage='https://drive.google.com/file/d/1ucgWm3X7IdDg3sHaCl2Hue6wiBKx47Iy/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 18, 43)
+Планирование задачи на собщение тест 2  с задержкой -567.346739 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='собщение тест 2 ' linkImage='https://drive.google.com/file/d/1ucgWm3X7IdDg3sHaCl2Hue6wiBKx47Iy/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 18, 45)
+Планирование задачи на собщение тест 2  с задержкой -447.346772 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='собщение тест 2 ' linkImage='https://drive.google.com/file/d/1ucgWm3X7IdDg3sHaCl2Hue6wiBKx47Iy/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 18, 47)
+Планирование задачи на собщение тест 2  с задержкой -207.346806 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='собщение тест 2 ' linkImage='https://drive.google.com/file/d/1ucgWm3X7IdDg3sHaCl2Hue6wiBKx47Iy/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 18, 51)
+Планирование задачи на собщение тест 2  с задержкой -87.346838 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='собщение тест 2 ' linkImage='https://drive.google.com/file/d/1ucgWm3X7IdDg3sHaCl2Hue6wiBKx47Iy/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 18, 53)
+Планирование задачи на sending message hello! test с задержкой -3465.041513 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='sending message hello! test' linkImage='https://drive.google.com/file/d/1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 17, 57)
+Планирование задачи на sending message hello! test с задержкой -3405.041631 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='sending message hello! test' linkImage='https://drive.google.com/file/d/1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 17, 58)
+Планирование задачи на собщение тест 1  с задержкой -1785.041677 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='собщение тест 1 ' linkImage='https://drive.google.com/file/d/1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 18, 25)
+Планирование задачи на собщение тест 2  с задержкой -1725.041716 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='собщение тест 2 ' linkImage='https://drive.google.com/file/d/1ucgWm3X7IdDg3sHaCl2Hue6wiBKx47Iy/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 18, 26)
+Планирование задачи на собщение тест 2  с задержкой -1605.041751 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='собщение тест 2 ' linkImage='https://drive.google.com/file/d/1ucgWm3X7IdDg3sHaCl2Hue6wiBKx47Iy/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 18, 28)
+Планирование задачи на собщение тест 2  с задержкой -705.041801 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='собщение тест 2 ' linkImage='https://drive.google.com/file/d/1ucgWm3X7IdDg3sHaCl2Hue6wiBKx47Iy/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 18, 43)
+Планирование задачи на собщение тест 2  с задержкой -585.041835 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='собщение тест 2 ' linkImage='https://drive.google.com/file/d/1ucgWm3X7IdDg3sHaCl2Hue6wiBKx47Iy/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 18, 45)
+Планирование задачи на собщение тест 2  с задержкой -465.041868 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='собщение тест 2 ' linkImage='https://drive.google.com/file/d/1ucgWm3X7IdDg3sHaCl2Hue6wiBKx47Iy/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 18, 47)
+Планирование задачи на собщение тест 2  с задержкой -225.0419 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='собщение тест 2 ' linkImage='https://drive.google.com/file/d/1ucgWm3X7IdDg3sHaCl2Hue6wiBKx47Iy/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 18, 51)
+Планирование задачи на собщение тест 2  с задержкой -105.041933 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='собщение тест 2 ' linkImage='https://drive.google.com/file/d/1ucgWm3X7IdDg3sHaCl2Hue6wiBKx47Iy/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 18, 53)
+Планирование задачи на sending message hello! test с задержкой -3470.462571 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='sending message hello! test' linkImage='https://drive.google.com/file/d/1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 17, 57)
+Планирование задачи на sending message hello! test с задержкой -3410.462725 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='sending message hello! test' linkImage='https://drive.google.com/file/d/1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 17, 58)
+Планирование задачи на собщение тест 1  с задержкой -1790.462771 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='собщение тест 1 ' linkImage='https://drive.google.com/file/d/1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 18, 25)
+Планирование задачи на собщение тест 2  с задержкой -1730.462809 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='собщение тест 2 ' linkImage='https://drive.google.com/file/d/1ucgWm3X7IdDg3sHaCl2Hue6wiBKx47Iy/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 18, 26)
+Планирование задачи на собщение тест 2  с задержкой -1610.462843 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='собщение тест 2 ' linkImage='https://drive.google.com/file/d/1ucgWm3X7IdDg3sHaCl2Hue6wiBKx47Iy/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 18, 28)
+Планирование задачи на собщение тест 2  с задержкой -710.462877 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='собщение тест 2 ' linkImage='https://drive.google.com/file/d/1ucgWm3X7IdDg3sHaCl2Hue6wiBKx47Iy/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 18, 43)
+Планирование задачи на собщение тест 2  с задержкой -590.46291 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='собщение тест 2 ' linkImage='https://drive.google.com/file/d/1ucgWm3X7IdDg3sHaCl2Hue6wiBKx47Iy/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 18, 45)
+Планирование задачи на собщение тест 2  с задержкой -470.462943 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='собщение тест 2 ' linkImage='https://drive.google.com/file/d/1ucgWm3X7IdDg3sHaCl2Hue6wiBKx47Iy/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 18, 47)
+Планирование задачи на собщение тест 2  с задержкой -230.462979 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='собщение тест 2 ' linkImage='https://drive.google.com/file/d/1ucgWm3X7IdDg3sHaCl2Hue6wiBKx47Iy/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 18, 51)
+Планирование задачи на собщение тест 2  с задержкой -110.463011 секунд.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='собщение тест 2 ' linkImage='https://drive.google.com/file/d/1ucgWm3X7IdDg3sHaCl2Hue6wiBKx47Iy/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 18, 53)
+Планирование задачи на собщение тест 2  с задержкой 3.195875 секунд.
+Планирование задачи на собщение тест 2  с задержкой 3.195875 секунд.
+Задача 'собщение тест 2 ' запланирована на 2024-10-29 18:55:00.
+Задача 'собщение тест 2 ' запланирована на 2024-10-29 18:55:00.
+Начало задачи: 2024-10-29 18:55:00.008254
+Начало задачи: 2024-10-29 18:55:00.008254
+Файл загружен: uploads/photo.jpg
+Файл загружен: uploads/photo.jpg
+Прошло: 4.266962 секунд
+Прошло: 4.266962 секунд
+Задача 'собщение тест 2 ' выполнена успешно.
+Задача 'собщение тест 2 ' выполнена успешно.
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='sending message hello! test' linkImage='https://drive.google.com/file/d/1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 17, 57)
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='sending message hello! test' linkImage='https://drive.google.com/file/d/1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 17, 58)
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='собщение тест 1 ' linkImage='https://drive.google.com/file/d/1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 18, 25)
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='собщение тест 2 ' linkImage='https://drive.google.com/file/d/1ucgWm3X7IdDg3sHaCl2Hue6wiBKx47Iy/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 18, 26)
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='собщение тест 2 ' linkImage='https://drive.google.com/file/d/1ucgWm3X7IdDg3sHaCl2Hue6wiBKx47Iy/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 18, 28)
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='собщение тест 2 ' linkImage='https://drive.google.com/file/d/1ucgWm3X7IdDg3sHaCl2Hue6wiBKx47Iy/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 18, 43)
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='собщение тест 2 ' linkImage='https://drive.google.com/file/d/1ucgWm3X7IdDg3sHaCl2Hue6wiBKx47Iy/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 18, 45)
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='собщение тест 2 ' linkImage='https://drive.google.com/file/d/1ucgWm3X7IdDg3sHaCl2Hue6wiBKx47Iy/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 18, 47)
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='собщение тест 2 ' linkImage='https://drive.google.com/file/d/1ucgWm3X7IdDg3sHaCl2Hue6wiBKx47Iy/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 18, 51)
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='собщение тест 2 ' linkImage='https://drive.google.com/file/d/1ucgWm3X7IdDg3sHaCl2Hue6wiBKx47Iy/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 18, 53)
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='собщение тест 2 ' linkImage='https://drive.google.com/file/d/1ucgWm3X7IdDg3sHaCl2Hue6wiBKx47Iy/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 18, 55)
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='sending message hello! test' linkImage='https://drive.google.com/file/d/1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 17, 57)
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='sending message hello! test' linkImage='https://drive.google.com/file/d/1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 17, 58)
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='собщение тест 1 ' linkImage='https://drive.google.com/file/d/1aiJJdgmlqzLbg77NFtotO3nGd-xTa0Py/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 18, 25)
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='собщение тест 2 ' linkImage='https://drive.google.com/file/d/1ucgWm3X7IdDg3sHaCl2Hue6wiBKx47Iy/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 18, 26)
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='собщение тест 2 ' linkImage='https://drive.google.com/file/d/1ucgWm3X7IdDg3sHaCl2Hue6wiBKx47Iy/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 18, 28)
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='собщение тест 2 ' linkImage='https://drive.google.com/file/d/1ucgWm3X7IdDg3sHaCl2Hue6wiBKx47Iy/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 18, 43)
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='собщение тест 2 ' linkImage='https://drive.google.com/file/d/1ucgWm3X7IdDg3sHaCl2Hue6wiBKx47Iy/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 18, 45)
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='собщение тест 2 ' linkImage='https://drive.google.com/file/d/1ucgWm3X7IdDg3sHaCl2Hue6wiBKx47Iy/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 18, 47)
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='собщение тест 2 ' linkImage='https://drive.google.com/file/d/1ucgWm3X7IdDg3sHaCl2Hue6wiBKx47Iy/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 18, 51)
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='собщение тест 2 ' linkImage='https://drive.google.com/file/d/1ucgWm3X7IdDg3sHaCl2Hue6wiBKx47Iy/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 18, 53)
+Время для задачи уже прошло: restId=371 numberOfVisitsFrom=3 numberOfVisitsTo=7 dateVisitFrom=datetime.date(2024, 9, 20) dateVisitTo=datetime.date(2024, 10, 20) textMessage='собщение тест 2 ' linkImage='https://drive.google.com/file/d/1ucgWm3X7IdDg3sHaCl2Hue6wiBKx47Iy/view?usp=sharing' reply_markup={'inline_keyboard': [[{'text': 'google', 'url': 'https://www.google.com'}, {'text': 'insta', 'url': 'https://www.instagram.com'}]]} timeToStartSending=datetime.datetime(2024, 10, 29, 18, 55)
+Начало задачи: 2024-10-29 18:57:00.004879
+Начало задачи: 2024-10-29 18:57:00.004879
+Прошло: 4.213523 секунд
+Прошло: 4.213523 секунд
+Удалена задача с прошедшим временем: 2024-10-29 17:57:00
+Удалена задача с прошедшим временем: 2024-10-29 17:58:00
+Удалена задача с прошедшим временем: 2024-10-29 18:25:00
+Удалена задача с прошедшим временем: 2024-10-29 18:26:00
+Удалена задача с прошедшим временем: 2024-10-29 18:28:00
+Удалена задача с прошедшим временем: 2024-10-29 18:43:00
+Удалена задача с прошедшим временем: 2024-10-29 18:45:00
+Удалена задача с прошедшим временем: 2024-10-29 18:47:00
+Удалена задача с прошедшим временем: 2024-10-29 18:51:00
+Удалена задача с прошедшим временем: 2024-10-29 18:53:00
+Удалена задача с прошедшим временем: 2024-10-29 18:55:00
+Удалена задача с прошедшим временем: 2024-10-29 18:57:00
+Удалена задача с прошедшим временем: 2024-10-29 19:17:00
+Запланирована задача на: 2024-10-29 19:19:00
+Планирование задачи на собщение тест 2  с задержкой 25.36168 секунд.
+Задача 'собщение тест 2 ' запланирована на 2024-10-29 19:19:00.
+Начало задачи: 2024-10-29 19:19:00.004978
+Файл загружен: uploads/photo.jpg
+Прошло: 4.389923 секунд
+Задача 'собщение тест 2 ' выполнена успешно.
+Удалена задача с прошедшим временем: 2024-10-29 19:19:00
+Запланирована задача на: 2024-10-30 15:29:00
+Планирование задачи на собщение по рассылке для тест 2  с задержкой 36.359394 секунд.
+Задача 'собщение по рассылке для тест 2 ' запланирована на 2024-10-30 15:29:00.
+Начало задачи: 2024-10-30 15:29:00.004796
+Файл загружен: uploads/photo.jpg
+Прошло: 4.175611 секунд
+Задача 'собщение по рассылке для тест 2 ' выполнена успешно.
+Удалена задача с прошедшим временем: 2024-10-30 15:29:00
+Запланирована задача на: 2024-10-30 17:05:00
+Планирование задачи на собщение по рассылке для тест 2  с задержкой 10.359822 секунд.
+Задача 'собщение по рассылке для тест 2 ' запланирована на 2024-10-30 17:05:00.
+Начало задачи: 2024-10-30 17:05:00.000939
+Файл загружен: uploads/photo.jpg
+Ошибка при выполнении задачи: get_chat_ids() got an unexpected keyword argument 'rest_id'
+Удалена задача с прошедшим временем: 2024-10-30 17:05:00
+Запланирована задача на: 2024-10-30 17:07:00
+Планирование задачи на собщение по рассылке для тест 2  с задержкой 41.78254 секунд.
+Задача 'собщение по рассылке для тест 2 ' запланирована на 2024-10-30 17:07:00.
+Начало задачи: 2024-10-30 17:07:00.002141
+Файл загружен: uploads/photo.jpg
+Прошло: 4.088888 секунд
+Задача 'собщение по рассылке для тест 2 ' выполнена успешно.
+Запланирована задача на: 2024-10-30 17:09:00
+Планирование задачи на Новое сообщение для рассылки  с задержкой 29.233391 секунд.
+Задача 'Новое сообщение для рассылки ' запланирована на 2024-10-30 17:09:00.
+Начало задачи: 2024-10-30 17:09:00.004618
+Файл загружен: uploads/photo.jpg
+Прошло: 6.341458 секунд
+Задача 'Новое сообщение для рассылки ' выполнена успешно.
+Удалена задача с прошедшим временем: 2024-10-30 17:07:00
+Удалена задача с прошедшим временем: 2024-10-30 17:09:00
+Запланирована задача на: 2024-11-01 15:49:00
+Планирование задачи на Запуск на 15:49 с задержкой 70.128615 секунд.
+Задача 'Запуск на 15:49' запланирована на 2024-11-01 15:49:00.
+Запланирована задача на: 2024-11-01 15:53:00
+Планирование задачи на Запуск на 15:53 с задержкой 280.80467 секунд.
+Задача 'Запуск на 15:53' запланирована на 2024-11-01 15:53:00.
+Начало задачи: 2024-11-01 15:49:00.002559
+Файл загружен: uploads/photo.jpg
+Прошло: 3.834392 секунд
+Задача 'Запуск на 15:49' выполнена успешно.
+Удалена задача с прошедшим временем: 2024-11-01 15:49:00
+Планирование задачи на Запуск на 15:53 с задержкой 229.746017 секунд.
+Задача 'Запуск на 15:53' запланирована на 2024-11-01 15:53:00.
+Начало задачи: 2024-11-01 15:53:00.002715
+Файл загружен: uploads/photo.jpg
+Прошло: 4.076404 секунд
+Задача 'Запуск на 15:53' выполнена успешно.
+Запланирована задача на: 2024-11-01 16:00:00
+Планирование задачи на Запуск на 16:00 с задержкой 91.044133 секунд.
+Задача 'Запуск на 16:00' запланирована на 2024-11-01 16:00:00.
+Запланирована задача на: 2024-11-01 16:13:00
+Планирование задачи на Запуск на 16:13 с задержкой 124.800616 секунд.
+Задача 'Запуск на 16:13' запланирована на 2024-11-01 16:13:00.
+Удалена задача с прошедшим временем: 2024-11-01 15:53:00
+Удалена задача с прошедшим временем: 2024-11-01 16:00:00
+Удалена задача с прошедшим временем: 2024-11-01 16:13:00
+Запланирована задача на: 2024-11-01 16:22:00
+Планирование задачи на Запуск на 16:22 с задержкой 91.156959 секунд.
+Задача 'Запуск на 16:22' запланирована на 2024-11-01 16:22:00.
+Планирование задачи на Запуск на 16:22 с задержкой 39.588965 секунд.
+Задача 'Запуск на 16:22' запланирована на 2024-11-01 16:22:00.
+Начало задачи: 2024-11-01 16:22:00.007941
+Файл загружен: None
+Ошибка при выполнении задачи: remove: path should be string, bytes or os.PathLike, not NoneType
+Удалена задача с прошедшим временем: 2024-11-01 16:22:00
+Запланирована задача на: 2024-11-01 17:09:00
+Планирование задачи на Запуск на 17:09 с задержкой 64.838295 секунд.
+Задача 'Запуск на 17:09' запланирована на 2024-11-01 17:09:00.
+Начало задачи: 2024-11-01 17:09:00.007429
+Файл загружен: uploads/photo.jpg
+Прошло: 3.998548 секунд
+Задача 'Запуск на 17:09' выполнена успешно.
+Запланирована задача на: 2024-11-01 17:11:00
+Планирование задачи на Запуск на 17:11 с задержкой 105.018176 секунд.
+Задача 'Запуск на 17:11' запланирована на 2024-11-01 17:11:00.
+Начало задачи: 2024-11-01 17:11:00.008707
+Файл загружен: uploads/photo.jpg
+Прошло: 3.821938 секунд
+Задача 'Запуск на 17:11' выполнена успешно.
+Запланирована задача на: 2024-11-01 17:29:00
+Планирование задачи на Запуск на 17:29 с задержкой 103.135253 секунд.
+Задача 'Запуск на 17:29' запланирована на 2024-11-01 17:29:00.
+Удалена задача с прошедшим временем: 2024-11-01 17:09:00
+Удалена задача с прошедшим временем: 2024-11-01 17:11:00
+Удалена задача с прошедшим временем: 2024-11-01 17:29:00
+Запланирована задача на: 2024-11-01 18:00:00
+Планирование задачи на Запуск на 18:00 с задержкой 219.205223 секунд.
+Задача 'Запуск на 18:00' запланирована на 2024-11-01 18:00:00.
+Загружена задача: Запуск на 18:00 на 2024-11-01 18:00:00
+Планирование задачи на Запуск на 18:00 с задержкой 213.943702 секунд.
+Задача 'Запуск на 18:00' запланирована на 2024-11-01 18:00:00.
+Начало задачи: 2024-11-01 17:59:59.997477
+Файл загружен: uploads/photo.jpg
+Прошло: 3.846832 секунд
+Задача 'Запуск на 18:00' выполнена успешно.
+Удалена задача с прошедшим временем: 2024-11-01 18:00:00
+Удалена задача с прошедшим временем: 2024-11-02 17:50:00
+Удалена задача с прошедшим временем: 2024-11-02 17:57:00
+Удалена задача с прошедшим временем: 2024-11-02 18:14:00
+Удалена задача с прошедшим временем: 2024-11-02 18:18:00
+Запланирована задача на: 2024-11-02 18:27:00
+Планирование задачи на Запуск на 18:27: с задержкой 296.115387 секунд.
+Задача 'Запуск на 18:27:' запланирована на 2024-11-02 18:27:00.
+Загружена задача: Запуск на 18:27: на 2024-11-02 18:27:00
+Планирование задачи на Запуск на 18:27: с задержкой 288.626188 секунд.
+Задача 'Запуск на 18:27:' запланирована на 2024-11-02 18:27:00.
