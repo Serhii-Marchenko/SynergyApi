@@ -1,29 +1,23 @@
-# Базовый образ Python
+# Use an official Python runtime as a parent image
 FROM python:3.10-slim
 
-# Устанавливаем рабочую директорию в контейнере
-WORKDIR /app
+# Установим зависимость для работы с часовыми поясами
+RUN apt-get update && apt-get install -y tzdata
 
-# Устанавливаем временную зону на Киев
+# Установим часовой пояс на Киев (Europe/Kiev)
 ENV TZ=Europe/Kiev
 
-# Обновляем пакеты и устанавливаем tzdata для изменения временной зоны
-RUN apt-get update && \
-    apt-get install -y --no-install-recommends tzdata && \
-    ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone && \
-    apt-get clean && \
-    rm -rf /var/lib/apt/lists/*
+# Set the working directory in the container
+WORKDIR /app
 
-# Копируем файлы requirements.txt и устанавливаем зависимости
-COPY requirements.txt .
+# Copy the current directory contents into the container at /app
+COPY . /app
 
+# Install the required Python dependencies
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Копируем все файлы проекта в контейнер
-COPY . .
+# Expose the port that the FastAPI app will run on
+EXPOSE 5057
 
-# Открываем порт для доступа к FastAPI-приложению
-EXPOSE 8000
-
-# Команда для запуска приложения
+# Run the FastAPI app using uvicorn when the container starts
 CMD ["python", "main.py"]

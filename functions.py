@@ -139,7 +139,6 @@ async def send_photo(chat_ids, file_path, token, caption, keyboard):
                 errors.append(chat_id)
                 error_ids.append(chat_id)
 
-
         result = {
                 'successCount': success_count,
                 'errorCount': len(errors),

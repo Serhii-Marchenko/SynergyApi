@@ -1,0 +1,167 @@
+<!doctype html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="frontend/index.css">
+    <title>Synergiya sendig</title>
+</head>
+<body>
+    <div id = 'menu' class="menu-items">
+        <h1>Выберите действие</h1>
+        <div>
+            <button id = "create-res">Создать новую рассылку</button>
+            <button id = 'show-res'>Посмотреть мои рассылки</button>
+        </div>
+    </div>
+
+    <div id = 'show-ressenders' style="display: none">
+        <div id = 'show-ressender' >
+            <h1> Мои рассылки:</h1>
+            <div id = 'ressenders'> </div>
+        </div>
+        <div id = 'button-create-res'>
+            <button id = 'create-resend-button'>Создать новую рассылку</button>
+        </div>
+    </div>
+
+<!-- Модальное окно для запроса номера телефона -->
+    <div id="header" style="display: none"class="menu-items">
+        <h1>Отправка рассылки клиентам Synergy Group через телеграм бота Синергию </h1>
+        <div class="items">
+            <form action=""  >
+                <div class="area-input" id="name-rest" >Название ресторана
+                    <label>
+                        <select required >
+                            <option value="" selected disabled>Выберите ресторан</option>
+                            <option  value="326">YUG</option>
+                            <option value="372">REEF</option>
+                            <option value="384">ROASTERY</option>
+                            <option value="325">BEERTEKA</option>
+                            <option value="371">TERRACE</option>
+                            <option value="5971">CAFE CENTRAL</option>
+                            <option value="8204">MEDETERRANEAN</option>
+                        </select>
+                    </label>
+                </div>
+                <div id = 'visits'>
+                    <div class="area-input">Количество посещений От:
+                        <label>
+                            <input type="number" required>
+                        </label>
+                    </div>
+                    <div class="area-input">Количество посещений До:
+                        <label>
+                            <input type="number" required>
+                        </label>
+                    </div>
+                </div>
+                <div id="date-visit">
+                    <div class="area-input-date">Дата посещения От:
+                        <label>
+                            <input type="date" required>
+                        </label>
+                    </div>
+                    <div class="area-input-date">Дата посещения До:
+                        <label>
+                            <input type="date" required>
+                        </label>
+                    </div>
+                </div>
+
+                <div class="area-input" id = 'link-image'>Ссылка на изображение:
+                    <label>
+                        <input type="url" required>
+                    </label>
+                </div>
+                <div class="button-tg">
+                    <div class="area-input-text">Текст кнопки:
+                        <label>
+                            <input type="text" required>
+                        </label>
+                    </div>
+                    <div class="area-input-link" id="link-button-1">Ссылка кнопки:
+                        <label>
+                            <input type="text" required>
+                        </label>
+                    </div>
+                </div>
+
+<!--                <div class="button-tg">-->
+<!--                   <div class="area-input-text">Текст кнопки 2:-->
+<!--                       <label>-->
+<!--                           <input type="text">-->
+<!--                       </label>-->
+<!--                   </div>-->
+<!--                   <div class="area-input-link">Ссылка кнопки 2:-->
+<!--                       <label>-->
+<!--                           <input type="text">-->
+<!--                       </label>-->
+<!--                   </div>-->
+<!--                </div>-->
+
+
+                <div class="area-input-date">Дата начала рассылки:
+                    <label>
+                        <input type="datetime-local" required>
+                    </label>
+                </div>
+                <div class="area-input" id="message-text">
+
+                    <label>
+                        <textarea required id="input-message-text" rows="20"  placeholder="Текст рассылки..."></textarea>
+                    </label>
+                </div>
+                <div id="send">
+                    <button type="submit">Отправить</button>
+                    <button type="button" id = 'my-res'>Мои рассылки</button>
+                </div>
+
+            </form>
+        </div>
+
+    </div>
+    <div id="successModal" class="blur-background">
+        <div class="modal">
+            <p>Успешно отправлено!</p>
+            <button id="closeModal">Ок</button>
+        </div>
+    </div>
+<!-- Модальное окно для запроса номера телефона -->
+    <div id="phoneModal" style="; visibility: hidden; opacity: 0; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.5); display: flex; align-items: center; justify-content: center; transition: opacity 0.3s;">
+        <div id="phone" style="  background: white; padding: 20px; border-radius: 10px; text-align: center;">
+            <h2>Введите номер телефона</h2>
+            <input type="text" id="phoneInput" placeholder="+380XXXXXXXXX" style="width: 80%; padding: 10px; margin: 10px 0;">
+            <div id = 'phone-alert' style="display: none" class="alerts">
+                <p>* номер телефона должен быть в формате <br> +380XXXXXXXXX</p>
+            </div>
+            <button id="phoneSubmit" style="padding: 10px 20px; background: #3232d6; color: white; border: none; cursor: pointer;">Отправить номер</button>
+        </div>
+
+        <div id="phone-not-found-alert" style="display: none; background: white; padding: 20px; border-radius: 10px; text-align: center;">
+            <h2 class="verification-title">По этому номеру телефона не найдено зарегистрированных пользователей</h2>
+            <p>Для создания рассылок пройдите регистрацию через телеграм или
+                обновите страницу и попробуйте ввести номер заново</p>
+
+            <a href="https://t.me/SynergySenderReg_bot?start=" target="_blank" style="display: inline-block; padding: 10px 20px; background: #3232d6; color: white; text-decoration: none; border-radius: 5px; text-align: center;">
+                Перейти в Телеграм
+            </a>
+        </div>
+        <div id="code-form" style="display: none; background: white; padding: 20px; border-radius: 10px; text-align: center; justify-content: center;">
+            <h2 class="verification-title">Введите код</h2>
+            <input type="text" id="codeInput" placeholder="Введи код" required style="display: block; margin: 10px auto; padding: 8px; width: 80%; text-align: center; border: 1px solid #ccc; border-radius: 5px;">
+            <div id = 'code-alert' style="display: none" class="alerts">
+                <p>* неверный код подтверждения</p>
+            </div>
+            <button id="codeSubmit" style="padding: 10px 20px; background: #3232d6; color: white; border: none; cursor: pointer; margin-top: 10px;">Подтвердить</button>
+        </div>
+        <div id="verification-success" style="display: none;background: white; padding: 20px; border-radius: 10px; text-align: center;">
+            <h2 class="verification-title">Авторизация успешна </h2>
+        </div>
+    </div>
+
+<script src="frontend/index.js"></script>
+</body>
+</html>

@@ -1,0 +1,310 @@
+body {
+    font-family: Arial, sans-serif;
+    background: rgb(60, 145, 255);
+    /*background: rgb(7, 7, 18);*/
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url('4.jpg'); /* Указываем путь к изображению */
+    background-size: cover; /* Картинка будет растягиваться, чтобы покрыть весь экран */
+    background-position: center; /* Центрируем картинку */
+    background-attachment: fixed; /* Картинка не будет двигаться при прокрутке страницы */
+    background-repeat: no-repeat; /* Картинка не будет повторяться */
+    /*height: 100vh;*/
+}
+input:focus{
+    outline: none;
+}
+/*#header {*/
+.menu-items {
+    /*height: 90vh;*/
+    padding: 10px;
+    width: 70%;
+    background: rgba(255, 255, 255, 0.2); /* Полупрозрачный цвет */
+    backdrop-filter: blur(10px);
+    color: #000000;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+select{
+    background-color: rgba(255, 255, 255, 0.5);
+    height: 30px;
+    appearance: none;
+    border-radius: 5px;
+    width: 60%;
+    text-align: center;
+    border: white 1px solid;
+    outline: none;
+
+}
+
+.area-input{
+    padding: 2px;
+
+}
+.area-input input{
+    text-align: center;
+    height: 20px;
+    border-radius: 5px;
+    border: white 1px solid;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+#visits {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    padding: 5px;
+}
+
+#date-visit {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    padding: 5px;
+}
+#link-image input{
+    width: 60%;
+}
+.button-tg {
+    margin-left: 10%;
+    display: flex;
+    /*justify-content: space-evenly;*/
+    gap: 10px;
+    padding: 5px;
+}
+.button-tg input{
+    text-align: center;
+    height: 20px;
+    border-radius: 5px;
+    border: white 1px solid;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+.area-input-text input{
+    width: 50%;
+}
+.area-input-link input{
+    width: 380px;
+}
+
+.area-input-date input{
+    text-align: center;
+    height: 20px;
+    border-radius: 5px;
+    border: white 1px solid;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+#message-text textarea{
+    width: 95%;
+    padding: 5px;
+    border-radius: 5px;
+    border: white 1px solid;
+    background-color: rgba(255, 255, 255, 0.5);
+    outline: none;
+}
+#message-text textarea::placeholder{
+    font-family: Arial, sans-serif;
+    font-size: 5em;
+    text-align: center;
+
+}
+ button{
+     background-color: #3232d6; /* green background */
+     color: #fff; /* white text */
+     padding: 10px 20px; /* add some padding */
+     border: none; /* remove default border */
+     border-radius: 5px; /* rounded corners */
+     cursor: pointer; /* change cursor on hover */
+ }
+
+ button:hover {
+     background-color: #16169e; /* green background on hover */
+ }
+
+/* Размытие и затемнение страницы */
+.blur-background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(255, 255, 255, 0.7); /* Полупрозрачный белый фон */
+    backdrop-filter: blur(5px); /* Размытие */
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.3s ease, visibility 0.3s;
+}
+
+/* Модальное окно */
+.modal {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Кнопка закрытия */
+.modal button {
+    margin-top: 10px;
+    padding: 10px 20px;
+    border: none;
+    background: #3232d6;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.modal button:hover {
+    background: #16169e;
+}
+
+#phoneModal {
+    transition: opacity 0.3s ease-in-out;
+}
+.alerts {
+    color: #d10000;
+    font-size: 0.8em;
+}
+
+
+#show-ressenders {
+    background: rgba(255, 255, 255, 0.2); /* Полупрозрачный цвет */
+    backdrop-filter: blur(10px);
+    color: #000000;
+    height: 80vh;
+    /*display: none;*/
+    display: flex;
+    min-width: 95%;
+    max-width: 95%; /* Ограничиваем ширину блока */
+    overflow-x: auto; /* Добавляем горизонтальную прокрутку, если таблица большая */
+    overflow-y: auto; /* Добавляем горизонтальную прокрутку, если таблица большая */
+    border-radius: 10px;
+    flex-direction: column;
+    justify-content: space-between; /* Размещает элементы сверху и снизу */
+
+    padding: 10px;
+}
+
+
+#button-create-res {
+    position: absolute; /* Абсолютное позиционирование */
+    bottom: 10px; /* Фиксируем внизу */
+    left: 50%; /* Центрируем по горизонтали */
+    transform: translateX(-50%); /* Корректируем смещение */
+    width: 100%; /* Растягиваем по ширине */
+    text-align: center;
+    padding: 10px;
+    /*background: rgba(255, 255, 255, 0.3); !* Лёгкий фон *!*/
+}
+
+#show-ressenders button {
+    margin-top: 10px;
+    padding: 10px 20px;
+    border: none;
+    background: #3232d6;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#show-ressenders button:hover {
+    background: #16169e;
+}
+
+#sendersTable {
+    width: 100%; /* Подгоняем ширину таблицы под контейнер */
+    border-collapse: collapse; /* Убираем промежутки между ячейками */
+    table-layout: auto; /* Автоматическая подгонка столбцов */
+    /*table-layout: fixed; !* Автоматическая подгонка столбцов *!*/
+}
+
+#sendersTable thead {
+    position: sticky; /* Закрепляем элемент */
+    top: 0; /* Ставим шапку в верхнюю часть контейнера */
+    /*background-color: rgba(255, 255, 255, 0.8); !* Полупрозрачный фон, чтобы шапка выделялась *!*/
+    z-index: 1; /* Устанавливаем z-index, чтобы шапка не скрывалась за содержимым */
+}
+
+#sendersTable th, #sendersTable td {
+    text-align: center;
+    padding: 8px; /* Отступы внутри ячеек */
+    /*justify-content: start;*/
+    /*text-align: left; !* Выравнивание текста *!*/
+    border: 1px solid #ddd; /* Границы ячеек */
+    /*white-space: wrap; !* Запрещаем перенос текста *!*/
+    white-space: nowrap; /* Запрещаем перенос текста */
+}
+
+#sendersTable th {
+    background-color: rgba(110, 110, 255, 0.89); /* Цвет фона заголовков */
+}
+
+#sendersTable-container {
+    width: 100%;
+    max-height: 80vh; /* Ограничиваем высоту таблицы, чтобы влезала в экран */
+    overflow: auto; /* Добавляем прокрутку, если не помещается */
+}
+
+
+
+/* Ограничить ширину столбцов */
+#sendersTable th:nth-child(7),
+#sendersTable td:nth-child(7) {
+    text-align: left;
+    min-width: 400px;
+    max-width: 450px;/* Задаем ширину */
+    white-space: normal; /* Разрешаем перенос строк */
+}
+
+/* Ограничить ширину для столбца с ссылками */
+#sendersTable th:nth-child(8),
+#sendersTable td:nth-child(8) {
+    text-align: left;
+    max-width: 150px; /* Например, ограничиваем 3-й столбец */
+    word-wrap: break-word; /* Переносим длинные слова */
+    overflow-wrap: break-word; /* Дополнительный перенос */
+    white-space: normal; /* Разрешаем перенос строк */
+}
+
+#sendersTable th:nth-child(10),
+#sendersTable td:nth-child(10) {
+    max-width: 150px; /* Например, ограничиваем 3-й столбец */
+    overflow: hidden;
+    word-wrap: break-word; /* Переносим длинные слова */
+    overflow-wrap: break-word; /* Дополнительный перенос */
+    white-space: normal; /* Разрешаем перенос строк */
+}
+
+
+/* Стиль для строки при наведении */
+#sendersTable tr:hover {
+    background-color: rgba(0, 0, 0, 0.1); /* Легкое выделение фоном */
+}
+
+/* Стили для кнопки "Удалить" */
+.delete-btn {
+    display: none; /* Кнопка скрыта по умолчанию */
+    background-color: red; /* Цвет кнопки */
+    color: white; /* Цвет текста */
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+/* Показываем кнопку при наведении на строку */
+#sendersTable tr:hover .delete-btn {
+    display: inline-block; /* Показываем кнопку */
+}
+
+
