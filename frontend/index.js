@@ -1,61 +1,3 @@
-// document.addEventListener("DOMContentLoaded", function () {
-//     const form = document.querySelector("form");
-//     const modal = document.getElementById("successModal");
-//     const closeModal = document.getElementById("closeModal");
-//
-//     form.addEventListener("submit", async function (event) {
-//         event.preventDefault(); // Отменяем стандартную отправку формы
-//
-//         // Формируем объект с данными
-//         const requestData = {
-//             restName: form.querySelector("#name-rest select").value,
-//             numberOfVisitsFrom: parseInt(form.querySelectorAll("#visits input")[0].value, 10) || null,
-//             numberOfVisitsTo: parseInt(form.querySelectorAll("#visits input")[1].value, 10) || null,
-//             dateVisitFrom: form.querySelectorAll("#date-visit input")[0].value || null,
-//             dateVisitTo: form.querySelectorAll("#date-visit input")[1].value || null,
-//             textMessage: form.querySelector("#input-message-text").value.trim(),
-//             linkImage: form.querySelector("#link-image input").value.trim(),
-//             textButton: form.querySelectorAll(".button-tg input")[0].value.trim() || null,
-//             linkButton: form.querySelectorAll(".button-tg input")[1].value.trim() || null,
-//             timeToStartSending: form.querySelector("input[type='datetime-local']").value || null
-//         };
-//
-//         console.log("Отправка данных:", requestData); // Выводим в консоль для отладки
-//
-//         try {
-//             const response = await fetch("http://127.0.0.1:8000/api/send", {  // Замените URL на ваш
-//                 method: "POST",
-//                 headers: {
-//                     "Content-Type": "application/json"
-//                 },
-//                 body: JSON.stringify(requestData)
-//             });
-//
-//             if (!response.ok) {
-//                 throw new Error(`Ошибка: ${response.statusText}`);
-//             }
-//
-//             form.reset(); // Очистка формы
-//             const result = await response.json();
-//             console.log("Ответ от сервера:", result);
-//
-//             // Показать модальное окно
-//             modal.style.visibility = "visible";
-//             modal.style.opacity = "1";
-//         } catch (error) {
-//             console.error("Ошибка при отправке запроса:", error);
-//             alert("Ошибка при отправке данных!");
-//         }
-//     });
-//
-//     // Закрытие модального окна
-//     closeModal.addEventListener("click", function () {
-//         modal.style.opacity = "0";
-//         setTimeout(() => {
-//             modal.style.visibility = "hidden";
-//         }, 300);
-//     });
-// });
 let verificationCode = null;
 
 const formSenderWindow = document.getElementById('header')
@@ -90,7 +32,7 @@ const verificationSuccess = document.getElementById('verification-success')
 
 
 function loadTableData() {
-    // fetch("http://127.0.0.1:5057/get-sends", {
+//     fetch("http://127.0.0.1:5057/get-sends", {
     fetch("https://sending.synergy-api.online/get-sends", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
@@ -202,7 +144,7 @@ function createTable(data) {
 function deleteRow(row, id) {
 
     id = row.cells.item(0).textContent
-    // fetch("http://127.0.0.1:5057/delete-send", {
+//     fetch("http://127.0.0.1:5057/delete-send", {
     fetch("https://sending.synergy-api.online/delete-send", {
         method: "POST",
         headers: {
@@ -226,56 +168,6 @@ function deleteRow(row, id) {
             alert("Не удалось удалить запись.");
         });
 }
-
-// function createTable(data) {
-//     const container = document.getElementById("show-ressenders");
-//     container.style.display = "block";
-//
-//     let oldWrapper = document.getElementById("sendersTable-container");
-//     if (oldWrapper) oldWrapper.remove();
-//
-//     const wrapper = document.createElement("div");
-//     wrapper.id = "sendersTable-container";
-//
-//     const table = document.createElement("table");
-//     table.id = "sendersTable";
-//
-//     const headers = Object.keys(data[0] || {});
-//     const thead = document.createElement("thead");
-//     const headRow = document.createElement("tr");
-//
-//     headers.forEach(header => {
-//         const th = document.createElement("th");
-//         th.textContent = header;
-//         headRow.appendChild(th);
-//     });
-//
-//     thead.appendChild(headRow);
-//     table.appendChild(thead);
-//
-//     const tbody = document.createElement("tbody");
-//     data.forEach(item => {
-//         const row = document.createElement("tr");
-//         headers.forEach(header => {
-//             const td = document.createElement("td");
-//
-//             if (header.toLowerCase().includes("дата")) {
-//                 td.textContent = formatDate(item[header]);
-//             } else {
-//                 td.textContent = item[header] || "";
-//             }
-//
-//             row.appendChild(td);
-//         });
-//         tbody.appendChild(row);
-//     });
-//
-//     table.appendChild(tbody);
-//     wrapper.appendChild(table);
-//     container.appendChild(wrapper);
-//
-// }
-
 
 document.addEventListener('click', (event) => {
     if (event.target === buttonCreateRes) {
@@ -327,7 +219,8 @@ phoneSubmit.addEventListener("click", function () {
     verificationCode = Math.floor(1000 + Math.random() * 9000); // Генерация 4-значного кода
 //    console.log(verificationCode)
     fetch("https://sending.synergy-api.online/send-code", {
-    // fetch("https://synergy-api.online/send-code", {
+//         fetch("http://127.0.0.1:5057/send-code", {
+
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ phone: phoneNumber, code: verificationCode }),
@@ -375,103 +268,104 @@ verificationSubmit.addEventListener("click", function () {
 
 document.addEventListener("DOMContentLoaded", function () {
     const form = document.querySelector("form");
-
     form.addEventListener("submit", async function (event) {
-        event.preventDefault(); // Отменяем стандартную отправку формы
-        // Получаем значения полей
-        const numberOfVisitsFromStr = form.querySelectorAll("#visits input")[0].value;
-        // const numberOfVisitsToStr = parseInt(form.querySelectorAll("#visits input")[1].value, 10) || 0;
-        const numberOfVisitsToStr = form.querySelectorAll("#visits input")[1].value;
+    event.preventDefault(); // Отменяем стандартную отправку формы
 
+    const numberOfVisitsFromStr = form.querySelectorAll("#visits input")[0].value;
+    const numberOfVisitsToStr = form.querySelectorAll("#visits input")[1].value;
 
-        const numberOfVisitsFrom = Math.max(1, parseInt(numberOfVisitsFromStr, 10));
-        const numberOfVisitsTo = Math.max(1, parseInt(numberOfVisitsToStr, 10));
-        const dateVisitFrom = form.querySelectorAll("#date-visit input")[0].value || null;
-        const dateVisitTo = form.querySelectorAll("#date-visit input")[1].value || null;
-        const timeToStartSending = form.querySelector("input[type='datetime-local']").value || null;
+    const numberOfVisitsFrom = Math.max(1, parseInt(numberOfVisitsFromStr, 10));
+    const numberOfVisitsTo = Math.max(1, parseInt(numberOfVisitsToStr, 10));
+    const dateVisitFrom = form.querySelectorAll("#date-visit input")[0].value || null;
+    const dateVisitTo = form.querySelectorAll("#date-visit input")[1].value || null;
+    const timeToStartSending = form.querySelector("input[type='datetime-local']").value || null;
 
-        // // Проверки перед отправкой формы
+    if (numberOfVisitsFrom > numberOfVisitsTo) {
+        alert("Количество посещений От: должно быть меньше Количество посещений До:");
+        return;
+    }
 
-        if (numberOfVisitsFrom > numberOfVisitsTo) {
-            alert("Количество посещений От: должно быть меньше Количество посещений До:");
+    if (dateVisitFrom && dateVisitTo) {
+        if (new Date(dateVisitFrom) >= new Date(dateVisitTo)) {
+            alert("Дата начала посещения должна быть раньше даты окончания.");
+            return;
+        }
+    }
+
+    if (timeToStartSending) {
+        if (new Date(timeToStartSending) <= new Date()) {
+            alert("Время начала отправки должно быть в будущем.");
             return;
         }
 
-
-        if (dateVisitFrom && dateVisitTo) {
-            if (new Date(dateVisitFrom) >= new Date(dateVisitTo)) {
-                alert("Дата начала посещения должна быть раньше даты окончания.");
-                return;
-            }
-        }
-
-        if (timeToStartSending) {
-            if (new Date(timeToStartSending) <= new Date()) {
-                alert("Время начала отправки должно быть в будущем.");
-                return;
-            }
-        }
-
-        // Формируем объект с данными
-        const requestData = {
-            phone: phoneInput.value.trim(),
-            restName: form.querySelector("#name-rest select").value,
-            numberOfVisitsFrom,
-            numberOfVisitsTo,
-            dateVisitFrom,
-            dateVisitTo,
-            textMessage: form.querySelector("#input-message-text").value.trim(),
-            linkImage: form.querySelector("#link-image input").value.trim(),
-            textButton: form.querySelectorAll(".button-tg input")[0].value.trim() || null,
-            linkButton: form.querySelectorAll(".button-tg input")[1].value.trim() || null,
-            timeToStartSending
-        };
-
-        console.log("Отправка данных:", requestData);
-        //
-        // // Формируем объект с данными
-        // const requestData = {
-        //     phone: phoneInput.value.trim(), // Добавляем телефон пользователя
-        //     restName: form.querySelector("#name-rest select").value,
-        //     numberOfVisitsFrom: parseInt(form.querySelectorAll("#visits input")[0].value, 10) || null,
-        //     numberOfVisitsTo: parseInt(form.querySelectorAll("#visits input")[1].value, 10) || null,
-        //     dateVisitFrom: form.querySelectorAll("#date-visit input")[0].value || null,
-        //     dateVisitTo: form.querySelectorAll("#date-visit input")[1].value || null,
-        //     textMessage: form.querySelector("#input-message-text").value.trim(),
-        //     linkImage: form.querySelector("#link-image input").value.trim(),
-        //     textButton: form.querySelectorAll(".button-tg input")[0].value.trim() || null,
-        //     linkButton: form.querySelectorAll(".button-tg input")[1].value.trim() || null,
-        //     timeToStartSending: form.querySelector("input[type='datetime-local']").value || null
-        // };
-        //
-        // console.log("Отправка данных:", requestData);
-
+        // 🚨 ДОБАВЛЕННАЯ ПРОВЕРКА НА БЭКЕНДЕ (check-date)
         try {
-            const response = await fetch("https://sending.synergy-api.online/send-sending", {
-            // const response = await fetch("http://127.0.0.1:5057/api/send", {
+            const checkDateResponse = await fetch("https://sending.synergy-api.online/check-date", {
+//            const checkDateResponse = await fetch("http://127.0.0.1:5057/check-date", {
                 method: "POST",
-                headers: {
-                    "Content-Type": "application/json"
-                },
-                body: JSON.stringify(requestData)
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ date: timeToStartSending })
+
             });
+            console.log(timeToStartSending)
 
-            if (!response.ok) {
-                throw new Error(`Ошибка: ${response.statusText}`);
+            const checkData = await checkDateResponse.json();
+
+            if (!checkData.allowed) {
+                alert("Нельзя создать новую рассылку раньше, чем через 2 дня после последней запланированной.Следующая доступная дата: " + checkData.available_date.split("T")[0]);
+
+                return;
             }
-
-            form.reset();
-            const result = await response.json();
-            console.log("Ответ от сервера:", result);
-
-            // Показать модальное окно успеха
-            modal.style.visibility = "visible";
-            modal.style.opacity = "1";
         } catch (error) {
-            console.error("Ошибка при отправке запроса:", error);
-            alert("Ошибка при отправке данных!");
+            console.error("Ошибка при проверке даты:", error);
+            alert("Ошибка при проверке даты. Попробуйте позже.");
+            return;
         }
-    });
+    }
+
+    // Формируем объект с данными
+    const requestData = {
+        phone: phoneInput.value.trim(),
+        restName: form.querySelector("#name-rest select").value,
+        numberOfVisitsFrom,
+        numberOfVisitsTo,
+        dateVisitFrom,
+        dateVisitTo,
+        textMessage: form.querySelector("#input-message-text").value.trim(),
+        linkImage: form.querySelector("#link-image input").value.trim(),
+        textButton: form.querySelectorAll(".button-tg input")[0].value.trim() || null,
+        linkButton: form.querySelectorAll(".button-tg input")[1].value.trim() || null,
+        timeToStartSending
+    };
+
+    console.log("Отправка данных:", requestData);
+
+    try {
+//        const response = await fetch("http://127.0.0.1:5057/send-sending", {
+        const response = await fetch("https://sending.synergy-api.online/send-sending", {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json"
+            },
+            body: JSON.stringify(requestData)
+        });
+
+        if (!response.ok) {
+            throw new Error(`Ошибка: ${response.statusText}`);
+        }
+
+        form.reset();
+        const result = await response.json();
+        console.log("Ответ от сервера:", result);
+
+        // Показать модальное окно успеха
+        modal.style.visibility = "visible";
+        modal.style.opacity = "1";
+    } catch (error) {
+        console.error("Ошибка при отправке запроса:", error);
+        alert("Ошибка при отправке данных!");
+    }
+});
 
     // Закрытие модального окна успеха
     closeModal.addEventListener("click", function () {
@@ -482,3 +376,94 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 
 });
+
+//    form.addEventListener("submit", async function (event) {
+//        event.preventDefault(); // Отменяем стандартную отправку формы
+//        // Получаем значения полей
+//        const numberOfVisitsFromStr = form.querySelectorAll("#visits input")[0].value;
+//        // const numberOfVisitsToStr = parseInt(form.querySelectorAll("#visits input")[1].value, 10) || 0;
+//        const numberOfVisitsToStr = form.querySelectorAll("#visits input")[1].value;
+//
+//
+//        const numberOfVisitsFrom = Math.max(1, parseInt(numberOfVisitsFromStr, 10));
+//        const numberOfVisitsTo = Math.max(1, parseInt(numberOfVisitsToStr, 10));
+//        const dateVisitFrom = form.querySelectorAll("#date-visit input")[0].value || null;
+//        const dateVisitTo = form.querySelectorAll("#date-visit input")[1].value || null;
+//        const timeToStartSending = form.querySelector("input[type='datetime-local']").value || null;
+//
+//        // // Проверки перед отправкой формы
+//
+//        if (numberOfVisitsFrom > numberOfVisitsTo) {
+//            alert("Количество посещений От: должно быть меньше Количество посещений До:");
+//            return;
+//        }
+//
+//
+//        if (dateVisitFrom && dateVisitTo) {
+//            if (new Date(dateVisitFrom) >= new Date(dateVisitTo)) {
+//                alert("Дата начала посещения должна быть раньше даты окончания.");
+//                return;
+//            }
+//        }
+//
+//        if (timeToStartSending) {
+//            if (new Date(timeToStartSending) <= new Date()) {
+//                alert("Время начала отправки должно быть в будущем.");
+//                return;
+//            }
+//        }
+//
+//        // Формируем объект с данными
+//        const requestData = {
+//            phone: phoneInput.value.trim(),
+//            restName: form.querySelector("#name-rest select").value,
+//            numberOfVisitsFrom,
+//            numberOfVisitsTo,
+//            dateVisitFrom,
+//            dateVisitTo,
+//            textMessage: form.querySelector("#input-message-text").value.trim(),
+//            linkImage: form.querySelector("#link-image input").value.trim(),
+//            textButton: form.querySelectorAll(".button-tg input")[0].value.trim() || null,
+//            linkButton: form.querySelectorAll(".button-tg input")[1].value.trim() || null,
+//            timeToStartSending
+//        };
+//
+//        console.log("Отправка данных:", requestData);
+//
+//
+//        try {
+//            const response = await fetch("https://sending.synergy-api.online/send-sending", {
+//            // const response = await fetch("http://127.0.0.1:5057/api/send", {
+//                method: "POST",
+//                headers: {
+//                    "Content-Type": "application/json"
+//                },
+//                body: JSON.stringify(requestData)
+//            });
+//
+//            if (!response.ok) {
+//                throw new Error(`Ошибка: ${response.statusText}`);
+//            }
+//
+//            form.reset();
+//            const result = await response.json();
+//            console.log("Ответ от сервера:", result);
+//
+//            // Показать модальное окно успеха
+//            modal.style.visibility = "visible";
+//            modal.style.opacity = "1";
+//        } catch (error) {
+//            console.error("Ошибка при отправке запроса:", error);
+//            alert("Ошибка при отправке данных!");
+//        }
+//    });
+//
+//    // Закрытие модального окна успеха
+//    closeModal.addEventListener("click", function () {
+//        modal.style.opacity = "0";
+//        setTimeout(() => {
+//            modal.style.visibility = "hidden";
+//        }, 300);
+//    });
+//
+//});

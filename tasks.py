@@ -3,7 +3,7 @@ import threading
 import asyncio
 from datetime import datetime
 import logging_setup
-from bx import get_chat_ids, filter_items_by_frequency
+from bx import get_chat_ids, filter_items_by_frequency,smart_process_add
 import functions as fn
 from models import Recipient
 import config
@@ -15,7 +15,7 @@ internal_logger = logging_setup.internal_logger
 # Глобальный словарь для хранения запланированных задач
 scheduled_tasks = {}
 
-async def execute_task(item: Recipient):
+async def execute_task(item: Recipient,task_id):
     """Функция для выполнения задачи отправки сообщений"""
     start = datetime.now()
     internal_logger.error(f"Начало задачи: {start}")
@@ -40,6 +40,22 @@ async def execute_task(item: Recipient):
             reply_markup = None
 
         result_send = await fn.send_photo(chatIds, file_path, config.API_TOKEN, item.textMessage, reply_markup)
+        success = result_send['successCount']
+        errors = result_send['errorCount']
+        phone_number_by_create = db_sending.get_phone_number_by_id(task_id)
+
+        result_bx = smart_process_add(date_make_sending=start.strftime('%Y-%m-%d'),
+                          date_visit_to=item.dateVisitTo.strftime('%Y-%m-%d'),
+                          date_visit_from=item.dateVisitFrom.strftime('%Y-%m-%d'),
+                          rest_code=item.restName,
+                          visits_from=item.numberOfVisitsFrom,
+                          visits_to=item.numberOfVisitsTo,
+                          successes=success,
+                          failures=errors,
+                          create_by=phone_number_by_create)
+
+        internal_logger.info(f"Отправка в битрикс:  {result_bx['result']['item']['id']}")
+
         # result_send = chatIds
         # print(result_send)
         os.remove(file_path)
@@ -51,6 +67,7 @@ async def execute_task(item: Recipient):
 
         return {'result_send': result_send, "start": start, "end": end}
     except Exception as e:
+        print(e)
         internal_logger.error(f"Ошибка при выполнении задачи: {str(e)}")
         return {"error": str(e)}
 
@@ -123,7 +140,7 @@ async def schedule_task(item: Recipient, run_time: datetime, task_id: str):
         except asyncio.CancelledError:
             internal_logger.info(f"Задача с ID {task_id} была отменена.")
             return
-    await execute_task(item)
+    await execute_task(item, task_id)
     internal_logger.info(f"Задача с ID {task_id} завершена.")
     scheduled_tasks.pop(task_id, None)
 

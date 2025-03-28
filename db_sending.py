@@ -85,6 +85,26 @@ def get_all_records_by_phone_number(phone_number):
         return []
 
 
+def get_phone_number_by_id(record_id):
+    try:
+        db = psycopg2.connect(host=host,
+                              port=port,
+                              database=database,
+                              user=user,
+                              password=password
+                              )
+
+        cursor = db.cursor()
+        cursor.execute(
+            "SELECT phone_user FROM sending_tg WHERE id = %s",
+            (record_id,))
+        info = cursor.fetchone()[0]
+        db.commit()
+        db.close()
+        return info
+    except Exception as e:
+        return None
+
 def delete_record_by_id(record_id):
     try:
         db = psycopg2.connect(host=host,
@@ -161,3 +181,27 @@ def get_all_pending_tasks():
     except Exception as e:
         print(f"Ошибка при извлечении задач: {e}")
         return []
+
+
+def get_latest_scheduled_date_from_db():
+    try:
+        db = psycopg2.connect(
+            host=host,
+            port=port,
+            database=database,
+            user=user,
+            password=password
+        )
+        cursor = db.cursor()
+        cursor.execute("""
+            SELECT MAX(time_to_start_sending)
+            FROM sending_tg
+            WHERE time_to_start_sending IS NOT NULL
+        """)
+        result = cursor.fetchone()[0]  # Вернёт datetime или None
+
+        db.close()
+        return result  # может быть datetime или None
+    except Exception as e:
+        print(f"Ошибка при получении последней даты рассылки: {e}")
+        return None

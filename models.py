@@ -24,3 +24,13 @@ class Recipient(BaseModel):
 
 class UserPhone(BaseModel):
     phone: int
+
+
+class DateCheckRequest(BaseModel):
+    date: datetime
+
+# Пример модели ответа
+class DateCheckResponse(BaseModel):
+    allowed: bool
+    last_scheduled: Optional[datetime]
+    available_date: Optional[datetime]

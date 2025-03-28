@@ -82,3 +82,43 @@ def get_fields_deals():
         print("Ошибка создания смарт-процесса ", response.text)
 
 
+
+
+def smart_process_add(date_make_sending,date_visit_from, date_visit_to, visits_from, visits_to, rest_code, successes, failures,create_by):
+    url = 'https://synergy24.com.ua/rest/104/fzn209q4nyqatqlw/crm.item.add'
+    departments = {'325': 'BEERTEKA',
+                   '326': 'YUG',
+                   '371': 'TERRACE',
+                   '372': 'REEF',
+                   '384': 'ROASTERY',
+                   '5971': 'CAFE CENTRAL',
+                   '8204': ' MEDITERRANEAN'
+                   }
+    fields = {
+        #'id': 10, если UPDATE то указываем id созданного елемента
+        'category_id': 122, # обязательное поле, без изменений только 122
+        'assigned_by_id': 104, # обязательное поле, без изменений только 104
+        'ufCrm_69_1743000543': date_make_sending,#"20.03.2025", # Дата начала рассылки
+        'ufCrm_69_1743000528': date_visit_to,#"01.03.2025", # Дата посещения До
+        'ufCrm_69_1743000490': date_visit_from, # Дата посещения от
+        'ufCrm_69_1743000471': visits_to, # Количество посещений До
+        'ufCrm_69_1743000455': visits_from, # Количество посещений от
+        'ufCrm_69_1743000405': departments[rest_code], # Название ресторана
+        'ufCrm_69_1743000989': successes, # Количество успешных отправок
+        'ufCrm_69_1743001024': failures, # Количество неуспешных (бот заблокирован / отписка)
+        'ufCrm_69_1743013895': create_by, # Кем создана рассылка
+    }
+
+    params = {
+        'entityTypeId': 1038, # обязательное поле, без изменений только 1038
+        'fields': fields,
+        'scope': 'crm'
+    }
+
+    try:
+        response = requests.post(url=url, json=params)
+        response.raise_for_status()
+        response_json = response.json()
+        print(response_json)
+    except requests.exceptions.RequestException as e:
+        print(f"Error: {e}")

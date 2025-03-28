@@ -1,7 +1,9 @@
+from datetime import timedelta
+
 from fastapi import APIRouter
 import db_sending
 import db_user
-from models import Send, User, Recipient, UserPhone
+from models import Send, User, Recipient, UserPhone,DateCheckRequest,DateCheckResponse
 from tasks import schedule_task, execute_task,cancel_scheduled_task,start_task
 import logging_setup
 from utills import send_telegram_message_with_inline_button
@@ -73,7 +75,7 @@ async def schedule_task_endpoint(item: Recipient):
         start_task(item, item.timeToStartSending,id_sending)
         return {"message": f"Задача запланирована на {item.timeToStartSending}"}
 
-    return await execute_task(item)
+    return await execute_task(item,id_sending)
 
 
 @router.post("/send-code")
@@ -84,3 +86,31 @@ async def root(user: User):
     else:
         send_telegram_message_with_inline_button(id_tg, f"Ваш код: {user.code}")
         return {"success": True, "id_tg": id_tg}
+
+@router.post('/check-date', response_model=DateCheckResponse)
+async def check_date(data: DateCheckRequest):
+    date_from_front = data.date
+    last_date = db_sending.get_latest_scheduled_date_from_db()
+
+
+    if not last_date:
+        return DateCheckResponse(
+            allowed=True,
+            last_scheduled=None,
+            available_date=None
+        )
+
+        # ✅ Просто сравниваем timedelta
+    if date_from_front - last_date > timedelta(days=2):
+        return DateCheckResponse(
+            allowed=True,
+            last_scheduled=last_date,
+            available_date=None
+        )
+    else:
+        available_date = last_date + timedelta(days=3)
+        return DateCheckResponse(
+            allowed=False,
+            last_scheduled=last_date,
+            available_date=available_date
+        )
